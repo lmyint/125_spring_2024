@@ -1,0 +1,13 @@
+---
+title: "STAT 125: Epidemiology (Spring 2024)"
+sidebar: false
+---
+
+This is the course website for STAT 125: Epidemiology at Macalester College for the Spring 2024 semester taught by Professor [Leslie Myint](https://www.lesliemyint.org). Materials were developed by Leslie Myint and [Vittorio Addona](https://www.macalester.edu/~addona/).
+
+# Drop-in (office) hours
+
+- **Where?** OLRI 232
+- **When?** TBD
+
+I'm also happy to meet one-on-one if my normal drop-in hours don't work. You can schedule a time to meet with me via [Calendly](https://calendly.com/lmyint).

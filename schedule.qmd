@@ -1,0 +1,377 @@
+---
+title: "Schedule"
+sidebar: false
+---
+
+# Course Calendar
+
+The topics that we will cover 4 broad units:
+
+- **Measurement:** Quantifying the amount and distribution of disease and disease burden
+    - Weeks 2-4
+    - Topics: measuring disease, direct and indirect standardization, measuring life expectancy and survival
+
+- **Study designs and causal inference:** The planning and conduct of studies to identify risk factors and causes of disease
+    - Weeks 5-10
+    - Topics: cohort and case-control studies, confounding and causation, randomized controlled trials
+
+- **Statistical thinking:** Quantifying uncertainty in study results and assessing bias
+    - Weeks 11-13
+    - Topics: sampling error and confidence intervals, hypothesis testing, biases and measurement error
+
+- **Disease screening:** Evaluating tools and practices for early detection of disease
+    - Week 14
+
+Videos that I will ask you to watch before class can be found in [this YouTube playlist](https://www.youtube.com/playlist?list=PLtjTgbI6JvXahpvX0s_9JRdcYjb1xCnLT). Look at the schedule table below to navigate to the pre-class video to watch before Tuesday's class. Use the Guiding Questions at the bottom of this page to guide your focus.
+
+```{=html}
+<table class="tg" data-quarto-disable-processing="true">
+<thead>
+  <tr>
+    <th class="topleft" style="width: 10%"><b>Week</b></th>
+    <th class="topleft" style="width: 30%"><b>Tuesday</b></th>
+    <th class="topleft" style="width: 30%"><b>Thursday</b></th>
+    <th class="topleft" style="width: 30%"><b>Announcements</b></th>
+  </tr>
+</thead>
+
+<tbody>
+  <tr>
+    <td class="topleft">1</td>
+    
+    <td class="topleft">
+      <b></b>
+    </td>
+    
+    <td class="topleft">
+      <b>1/18: Welcome to Epidemiology!</b>
+    </td>
+    
+    <td class="topleft">
+    </td>
+  </tr>
+  <!----------------------------------------------------------->
+  
+  
+  <tr>
+    <td class="topleft">2</td>
+    
+    <td class="topleft">
+      <b>1/23: Measuring disease (part 1)</b><br>
+      Pre-class video: <a href="https://youtu.be/nnPkKFMfZe8?si=40rI9MVtLQIjQc1b">Measuring disease: morbidity</a> (<a href="https://drive.google.com/file/d/1EYpfh9dr_N3VRHwwQGjVTjVJuNM4IoL5/view?usp=sharing">slides</a>)
+    </td>
+    
+    <td class="topleft">
+      <b>1/25: Measuring disease (part 2)</b>
+    </td>
+    
+    <td class="topleft">
+    </td>
+  </tr>
+  <!----------------------------------------------------------->
+  
+  
+  <tr>
+    <td class="topleft">3</td>
+    
+    <td class="topleft">
+      <b>1/30: Direct and indirect standardization (part 1)</b><br>
+      Pre-class video: <a href="https://youtu.be/-ilcAP3Zhwo?si=_rjzjNMd5XvNMNGh">Measuring disease: mortality</a> (<a href="https://drive.google.com/file/d/11Ji-Y6r68HoZrxeGaZTpUOC_Xo9zenAP/view?usp=sharing">slides</a>)
+    </td>
+    
+    <td class="topleft">
+      <b>2/1: Direct and indirect standardization (part 2)</b>
+    </td>
+    
+    <td class="topleft">
+      Homework 1 due Monday 2/5 at midnight
+    </td>
+  </tr>
+  <!----------------------------------------------------------->
+  
+  
+  <tr>
+    <td class="topleft">4</td>
+    
+    <td class="topleft">
+      <b>2/6: Measuring life expectancy and survival (part 1)</b><br>
+      Pre-class video: <a href="https://youtu.be/nwgWCAWw3O0?si=F7C_d2TlyXZZydq8">Life expectancy and related measures</a> (<a href="https://drive.google.com/file/d/1_Faz3yNebVjnJ7RikYwzvM-AGCGGfCq0/view?usp=sharing">slides</a>)
+    </td>
+    
+    <td class="topleft">
+      <b>2/8: Measuring life expectancy and survival (part 2)</b><br>
+      We will wrap up our Measurement unit with <b>Mini-Project 1</b> (to be worked on in groups during class and turned in at the end of class).
+    </td>
+    
+    <td class="topleft">
+    </td>
+  </tr>
+  <!----------------------------------------------------------->
+  
+  
+  <tr>
+    <td class="topleft">5</td>
+    
+    <td class="topleft">
+      <b>2/13: Cohort studies (part 1)</b><br>
+      Pre-class video: <a href="https://youtu.be/C9Ke2FejdIM?si=tcMJUQGSd9cTzXvk">Cohort studies</a> (<a href="https://drive.google.com/file/d/1EYD7B8N0CGkBjQieCTRckecvTduSDLuV/view?usp=sharing">slides</a>)
+    </td>
+    
+    <td class="topleft">
+      <b>2/15: Cohort studies (part 2)</b>
+    </td>
+    
+    <td class="topleft">
+      Homework 2 due Monday 2/19 at midnight.<br>
+      Schedule Content Conversation 1 (15 minutes) for next week (2/19-2/23).
+    </td>
+  </tr>
+  <!----------------------------------------------------------->
+  
+  
+  <tr>
+    <td class="topleft">6</td>
+    
+    <td class="topleft">
+      <b>2/20: Case-control studies (part 1)</b><br>
+      Pre-class video: <a href="https://youtu.be/hC7B89NB_TQ?si=M9bzuvMNUIu7_Tja">Case-control studies</a> (<a href="https://drive.google.com/file/d/1lYOrCwEHIywQK_k8Q_5NRRidTMS-BFQV/view?usp=sharing">slides</a>)
+    </td>
+    
+    <td class="topleft">
+      <b>2/22: Case-control studies (part 2)</b>
+    </td>
+    
+    <td class="topleft">
+      Content Conversation 1 (15 minutes) will be taking place this week.
+    </td>
+  </tr>
+  <!----------------------------------------------------------->
+  
+  
+  <tr>
+    <td class="topleft">7</td>
+    
+    <td class="topleft">
+      <b>2/27: Confounding and causation (part 1)</b><br>
+      Pre-class video: <a href="https://youtu.be/nKQQHq-fK10?si=pelRDAtxJoLNqllg">Causation</a> (<a href="https://drive.google.com/file/d/1qLM4FFOZGU5GCvOIRUWQ12qocp8hi8rn/view?usp=sharing">slides</a>)
+    </td>
+    
+    <td class="topleft">
+      <b>2/29: MSCS Capstone Days! No class but please attend talks!</b>
+    </td>
+    
+    <td class="topleft">
+    </td>
+  </tr>
+  <!----------------------------------------------------------->
+  
+  
+  <tr>
+    <td class="topleft">8</td>
+    
+    <td class="topleft">
+      <b>3/5: Confounding and causation (part 2)</b>
+    </td>
+    
+    <td class="topleft">
+      <b>3/7: Confounding and causation (part 3)</b>
+    </td>
+    
+    <td class="topleft">
+      Homework 3 due <b>FRIDAY</b> 3/8 at midnight.
+    </td>
+  </tr>
+  <!----------------------------------------------------------->
+  
+  
+  <tr>
+    <td class="topleft">9</td>
+    
+    <td class="topleft" colspan=2>
+      <b>3/9-3/17: Spring Break!</b>
+    </td>
+    
+    <td class="topleft">
+    </td>
+  </tr>
+  <!----------------------------------------------------------->
+  
+  
+  <tr>
+    <td class="topleft">10</td>
+    
+    <td class="topleft">
+      <b>3/19: Randomized controlled trials (part 1)</b><br>
+      Pre-class video: <a href="https://youtu.be/xqUTipvGwWo?si=9uSdPBWtizPhjKk-">Randomized controlled trials</a> (<a href="https://drive.google.com/file/d/1eg8bor5YD1Rmo1c21qlEwootufdzVQA7/view?usp=sharing">slides</a>)
+    </td>
+    
+    <td class="topleft">
+      <b>3/21: Randomized controlled trials (part 2)</b><br>
+      We will wrap up our Study Designs and Causal Inference unit with <b>Mini-Project 2</b> (to be worked on in groups during class and turned in at the end of class).
+    </td>
+    
+    <td class="topleft">
+    </td>
+  </tr>
+  <!----------------------------------------------------------->
+  
+  
+  <tr>
+    <td class="topleft">11</td>
+    
+    <td class="topleft">
+      <b>3/26: Sampling error and confidence intervals (part 1)</b>
+    </td>
+    
+    <td class="topleft">
+      <b>3/28: Sampling error and confidence intervals (part 2)</b>
+    </td>
+    
+    <td class="topleft">
+      Homework 4 due Monday 4/1 at midnight.
+    </td>
+  </tr>
+  <!----------------------------------------------------------->
+  
+  
+  <tr>
+    <td class="topleft">12</td>
+    
+    <td class="topleft">
+      <b>4/2: Hypothesis testing (part 1)</b>
+    </td>
+    
+    <td class="topleft">
+      <b>4/4: Hypothesis testing (part 2)</b>
+    </td>
+    
+    <td class="topleft">
+      Homework 5 due Monday 4/8 at midnight.
+    </td>
+  </tr>
+  <!----------------------------------------------------------->
+  
+  
+  <tr>
+    <td class="topleft">13</td>
+    
+    <td class="topleft">
+      <b>4/9: Biases and measurement error (part 1)</b>
+    </td>
+    
+    <td class="topleft">
+      <b>4/11: Biases and measurement error (part 2)</b><br>
+      We will wrap up our Statistical Thinking unit with <b>Mini-Project 3</b> (to be worked on in groups during class and turned in at the end of class).
+    </td>
+    
+    <td class="topleft">
+    </td>
+  </tr>
+  <!----------------------------------------------------------->
+  
+  
+  <tr>
+    <td class="topleft">14</td>
+    
+    <td class="topleft">
+      <b>4/16: Disease screening (part 1)</b><br>
+      Pre-class video: <a href="https://youtu.be/fX3JD3QwKA4?si=u4jvaaxwZ86AwQAd">Disease screening</a> (<a href="https://drive.google.com/file/d/1VmUQDyb-4KU3O8zrPU_hdmziZ7Ux5cH1/view?usp=sharing">slides</a>)
+    </td>
+    
+    <td class="topleft">
+      <b>4/18: Disease screening (part 2)</b>
+    </td>
+    
+    <td class="topleft">
+      Homework 6 due Monday 4/22 at midnight.<br>
+      Schedule Content Conversation 2 (20 minutes) for next week (4/22-4/26).
+    </td>
+  </tr>
+  <!----------------------------------------------------------->
+  
+  
+  <tr>
+    <td class="topleft">15</td>
+    
+    <td class="topleft">
+      <b>4/23</b>
+    </td>
+    
+    <td class="topleft">
+      <b>4/25</b>
+    </td>
+    
+    <td class="topleft">
+      Content Conversation 2 (20 minutes) will be taking place this week.
+    </td>
+  </tr>
+  <!----------------------------------------------------------->
+  
+  
+  <tr>
+    <td class="topleft">16</td>
+    
+    <td class="topleft" colspan=2>
+      <b>4/30-5/4: Reading period and finals</b>
+    </td>
+    
+    <td class="topleft">
+    </td>
+  </tr>
+
+</tbody>
+</table>
+```
+
+# Guiding Questions
+
+## Measuring disease: morbidity
+
+- What is the difference between a rate and a proportion?
+- What is the difference between disease risk and burden?
+- Why is prevalence not a measure of the risk for getting disease?
+- What is the difference between prevalence and incidence?
+- Describe how the prevalence of a disease is affected by incidence and typical duration of disease.
+
+<!--
+## Measuring disease: mortality
+
+- Explain the difference between a mortality rate and a case-fatality rate.
+- Why could it be misleading to compare crude mortality rates between populations?
+
+## Life expectancy and related measures
+
+- Conceptually, what is the difference between life expectancy at birth and life expectancy at age 60?
+- How does the DALY help measure the impact of diseases that are not necessarily fatal?
+
+## Cohort studies
+
+- What is the rationale for how cohort studies help us study the link between exposures and disease outcomes?
+- Briefly describe the difference between measuring the strength of association between exposure and disease versus impact of exposure on disease risk.
+
+## Case-control studies
+
+- Why might one prefer to conduct a case-control study over a cohort study?
+- Why do we use the odds ratio as a measure of association in case-control studies, rather than a relative risk?
+
+## Causation
+
+- How do we check to see whether a variable confounds the relationship between an exposure and an outcome?
+- Why should we not adjust for mediators in a causal pathway between an exposure and an outcome?
+
+## Randomized controlled trials
+
+- How does randomization work to control known and unknown confounding?
+- Why is blinding crucial in a randomized trial?
+
+## Sampling error and confidence intervals
+
+## Hypothesis testing
+
+## Biases and measurement error
+
+## Disease screening
+
+- Describe how lead time bias can result in an overestimation of the benefits of screening.
+- Describe how length bias can result in an overestimation of the benefits of screening.
+-->

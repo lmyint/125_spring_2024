@@ -1,0 +1,348 @@
+---
+title: "Syllabus"
+---
+
+# What is this course about?
+
+If you've ever thought about your health and wellbeing, this course will be relevant to you. 
+
+Fundamentally, epidemiology is the study of human thriving and suffering---most generally investigated in the context of disease. We will take a quantitative lens to 
+
+::: {.callout-note collapse="false" title="Course catalog description"}
+Epidemiology is the study of the distribution and determinants of disease and health in human populations and the application of this understanding to the solution of public health problems. Topics include measurement of disease and health, study designs for assessing associations, reasoning about causality, handling uncertainty in data, disease screening, and biases that affect data quality. The course is designed to fulfill and extend the professional community's consensus definition of undergraduate epidemiology and is a required component of the concentration in Community and Global Health.
+:::
+
+## Course learning goals
+
+By the end of this course you should be able to:
+
+- Appropriately use rates and proportions to measure the amount and distribution of disease.
+- Describe the core epidemiologic study designs used to test hypotheses, identify associations, and establish causation.
+- Understand statistical / epidemiologic concepts of estimation, inference, bias, and adjustment for confounders to establish association.
+- Explain how to use evidence of an association to make a judgment about whether that association is likely to be causal.
+- Understand how ethical principles affect epidemiologic research.
+- Analyze a public health problem (e.g., investigation of a disease outbreak) by using epidemiologic methods.
+- Describe the concepts used to measure screening test performance, and comprehend the factors typically used to assess screening programs.
+- Synthesize epidemiologic methods to assess the strengths / weaknesses of assertions made in scientific literature or mass media.
+
+
+<br><br><br><br>
+
+
+# Course communication
+
+## Meet the instructional team
+
+<img src="https://www.lesliemyint.org/portrait.png" width=200 style="float: left; padding-right: 20px; padding-bottom: 20px;">
+
+**Leslie Myint (instructor)**
+
+**About me:** One of my greatest joys is sharing the beauty of data-driven thinking, so I'm thrilled to be teaching Epidemiology! I also get very excited talking about all things games! I love playing board games, Dungeons and Dragons (D&D), and Nintendo console games. I also love staying active with weightlifting and rock climbing and hoping to learn cross-country skiing this winter!
+
+**Alayna Johnson (preceptor)**
+
+- **About me:**
+
+**Sophie McEwen (preceptor)**
+
+- **About me:**
+
+## How to contact me
+
+::: {.callout-note title="Call me \"Leslie\""}
+Students sometimes wonder what to call their professors. I prefer to be called Leslie (lez-lee), but if you prefer to be more formal, I am also ok with Professor Myint (pronounced "mee-int"). My preferred gender pronouns are she/her/hers.
+
+Please help me make sure that I call you by your preferred name and pronouns too!
+:::
+
+I love getting to talk to students outside of class time---whether about class-related topics or anything else. Come chat with me!
+
+I'll be setting times for drop-in hours based on feedback from the pre-course survey. I'll update my drop-in hours on our [course homepage](index.qmd) and Moodle when they're finalized.
+
+I'm also happy to meet one-on-one if my normal drop-in hours don't work. You can schedule a time to meet with me via [Calendly](https://calendly.com/lmyint).
+
+## Asking and answering questions
+
+The best place to ask questions about course content and logistics that are not particular to your situation is in our [course Q&A Google Doc](https://docs.google.com/document/d/1prqHcQmm8-D-7ild7rblCWCABlXvFcsu8ONBHc4GVms/edit?usp=sharing).
+
+
+<br><br><br><br>
+
+
+# Guiding values
+
+## Community is key
+
+A sense of [community](https://www.educause.edu/research-and-publications/books/learning-spaces/chapter-4-community-hidden-context-learning) and connectedness can provide a powerful environment for learning: Research shows that learning is maximized when students feel a sense of belonging in the educational environment (e.g., Booker, 2016). A negative climate may create barriers to learning, while a positive climate can energize students' learning (e.g., Pascarella & Terenzini, cited in How Learning Works, 2012).
+
+For these reasons, I will be designing our in-class group activities to intentionally foster commmunity and connectedness. You can help cultivate our classroom community by being thoughtful about the way you engage with others in class.
+
+## Reflection is paramount
+
+You will need to learn and grow for the rest of your lives. Meaningful and lasting growth hinges on **reflection**. I want to do what I can right now to help you establish thoughtful and consistent reflection practices that will serve you well as a lifelong learner. For this reason, reflection will be a core part of our course.
+
+## Mistakes are essential
+
+> An expert is a person who has made all the mistakes which can be made in a narrow field.<br>
+> - *Niels Bohr, Nobel Prize-winning physicist*
+
+Making mistakes is a core part of learning, and I don't want to penalize them. When you reach the [Grading and feedback](syllabus.qmd#grading-and-feedback) section of this syllabus, you will see that you will always be able to revise and resubmit your work without penalty.
+
+## Communication is a superpower
+
+Every time I go to a conference talk on a technical topic, it is striking how quickly laptops or phones come out because of the inability to follow. Academics notoriously struggle to make ideas accessible to others.
+
+I want communication to be very different for you.
+
+Every time you communicate ideas--whether through writing, visuals, or oral presentation--I want you to be a total boss. The end product of strong communication is a better experience for all those who have given you their attention. What's more, the *process* of crafting effective communication is invaluable for deepening your own understanding:
+
+<center>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Read to collect the dots, write to connect them <a href="https://t.co/YbgnKKFUNn">pic.twitter.com/YbgnKKFUNn</a></p>&mdash; David Perell (@david_perell) <a href="https://twitter.com/david_perell/status/1411871612702543872?ref_src=twsrc%5Etfw">July 5, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</center>
+
+
+<br><br><br><br>
+
+
+# How to thrive and what to expect
+
+When taking a new course, figuring out the right workflow/cadence of effort throughout the week can be a big adjustment. And most of you are doing this for 4 different courses! Below are some suggestions for what to expect in the course and how to focus your time and attention during and outside of class.
+
+## Outside of class
+
+**Pre-class videos:** Most class periods will have a required video to watch to familiarize yourself with important ideas. My goal for these videos is for you to get the most out of class time by being able to more easily follow explanations in class and to engage most fully in class activities. I will provide [Guiding Questions](schedule.qmd#guiding-questions) for each video to focus your attention.
+
+::: {.callout-tip title="Suggestions"}
+- Scan the [Guiding Questions](schedule.qmd#guiding-questions) before video to preview the main ideas. Fill in answers to these questions as you watch.
+- Ask (and answer!) questions in the [course Q&A Google Doc](https://docs.google.com/document/d/1prqHcQmm8-D-7ild7rblCWCABlXvFcsu8ONBHc4GVms/edit?usp=sharing).
+- Record any reflections from in-class time about your learning process or interactions with peers while they are still fresh.
+- After learning a new topic in class, it is helpful to immediately attempt the related exercises on the upcoming homework assignment.
+- Come to instructor drop-in hours to chat about the course or anything else! 😃
+:::
+
+
+## During class
+
+Class time will be a mix of interactive lecture and longer stretches of group work. During the lecture portion, I will pause explanation frequently to prompt a short exercise or ask questions that you'll reflect on individually or together.
+
+::: {.callout-tip title="Suggestion"}
+Review your learning process and group work reflections just before class to frame how you want to engage in class. (Perhaps you've noted a struggle and want to try a new strategy.)
+:::
+
+
+<br><br><br><br>
+
+
+# Grading and feedback
+
+## My philosophy
+
+Grading is thorny issue for many educators because of its [known negative effects on learning and motivation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4041495/). Nonetheless, it is ever-present in the US education system and at Macalester. Because I am required to submit grades for this course, it's worth me taking a minute to share my philosophy about grading with you.
+
+What excites me about being a teacher is your learning. Learning flourishes in an environment where you find **meaning and value** in what we're exploring, feel **safe engaging with challenging things**, receive **useful feedback**, and **regularly reflect** on your learning.
+
+If I didn't have to give grades, I wouldn't. But because I am required to, it is important to me to create a course structure and grading system that creates an environment for learning to flourish:
+
+- **Finding meaning and value:** I am striving to achieve this by creating space for authentic connection between you, your peers, and myself and by encouraging you to explore a topic that intrigues you for our course project.
+
+- **Safety in engaging with challenges:** The assignments and activities that we will use to learn are *meant to be challenging*, and it would be unreasonable for me to expect that you perform perfectly on the first try. For this reason, every assignment and assessment has an opportunity for **unlimited revisions/reattempts without penalty**. I hope that this alleviates stress considerably. If ever you are feeling overwhelmed by this course, please reach out to me. We'll find a way to make things more manageable.
+    - **Note:** While the number of revisions you can submit is unlimited in theory, in practice, there is a limit to how quickly the preceptors and I can review revisions and give feedback.
+
+- **Receiving useful feedback and reflecting regularly:** In order to learn maximally by pursuing a revision, you need BOTH good feedback and to reflect thoughtfully about misconceptions in your learning. Our preceptors and I will strive to give useful comments and prompts to spur reflection when we see room for improvement. A requirement for submitting a revision is to include a paragraph where you describe and reflect on your prior misconceptions.
+
+## Course grading system
+
+In order to earn a given letter grade, **all** requirements listed under that column need to be met.
+
+```{=html}
+<table class="tg" data-quarto-disable-processing="true">
+<thead>
+  <tr>
+    <th class="topleft" style="width: 25%"><b>Course component</b></th>
+    <th class="topleft" style="width: 25%"><b>Letter grade: C</b></th>
+    <th class="topleft" style="width: 25%"><b>Letter grade: B</b></th>
+    <th class="topleft" style="width: 25%"><b>Letter grade: A</b></th>
+  </tr>
+</thead>
+
+<tbody>
+  <tr>
+    <td class="topleft"><b>Homework</b></td>
+    <td class="topleft">Pass all but 2 HWs</td>
+    <td class="topleft">Pass all but 1 HW</td>
+    <td class="topleft">Pass all HWs</td>
+  </tr>
+  
+  <tr>
+    <td class="topleft"><b>Group mini-projects</b></td>
+    <td class="topleft">Pass all but 1 mini-project</td>
+    <td class="topleft">Pass all but 1 mini-project</td>
+    <td class="topleft">Pass all mini-projects</td>
+  </tr>
+  
+  <tr>
+    <td class="topleft"><b>Content conversations (CCs)</b></td>
+    <td class="topleft">Pass 1 of the 2 CCs</td>
+    <td class="topleft">Pass 2 of the 2 CCs</td>
+    <td class="topleft">Pass 2 of the 2 CCs</td>
+  </tr>
+  
+  <tr>
+    <td class="topleft"><b>Project</b></td>
+    <td class="topleft">Earn a Pass across all but 1 rubric category</td>
+    <td class="topleft">Earn a Pass across all rubric categories</td>
+    <td class="topleft">Earn a High Pass across all rubric categories</td>
+  </tr>
+
+</tbody>
+</table>
+```
+
+If your work for different course components falls under different letter grades, your final letter grade will be an "average" of the letter grades for the different components.
+
+```
+C  C  C  C --> C
+C  C  C  B --> C+
+C  C  C  A --> C+
+C  C  B  B --> B-
+C  C  B  A --> B-
+C  C  A  A --> B
+C  B  B  B --> B-
+C  B  B  A --> B
+C  B  A  A --> B+
+C  A  A  A --> B+
+B  B  B  B --> B
+B  B  B  A --> B+
+B  B  A  A --> A-
+B  A  A  A --> A-
+A  A  A  A --> A
+```
+
+```{r echo=FALSE, eval=FALSE}
+library(tidyverse)
+combos <- combn(rep(c("C", "B", "A"), each = 4), m = 4)
+combos <- t(combos) %>% as.data.frame()
+combos <- unique(combos)
+```
+
+### Homework
+
+There will be 6 homework assignments over the semester due roughly every 2 weeks on Mondays at midnight on Moodle. (One assignment will be due on a Friday.) Homework will receive a grade of Pass (P) if all responses are mostly correct (only minor errors). Otherwise the grade will be Not Yet (NY).
+
+::: {.callout-tip title="Purpose"}
+The purpose of homework is to *re-engage with core ideas* from class in the context of *new examples*.
+:::
+
+**Revising and resubmitting HW:** If you receive a grade of NY, you can revise and resubmit your work without penalty as long as you do the following:
+
+- Write a reflection paragraph at the top of your assignment in which you address: What improvements were you asked to make based on feedback on your previous submission? How has reviewing your feedback improved your understanding? (What do you understand better/differently than you did before?)
+- Keep all of your original work intact and include revisions in different color text (e.g., blue or orange)
+- Submit your revised work to the same homework link on Moodle. Email the instructor and preceptors once this is submitted. (We don't get email notifications when things are submitted to Moodle.)
+
+### Group mini-projects
+
+There will be 3 mini-projects that will be worked on fully in class the last day of our first 3 units (on Thursdays---see our [course calendar](schedule.qmd)). If you miss class this day, you will need to complete the mini-project on your own.
+
+::: {.callout-tip title="Purpose"}
+The purpose of the mini-projects is to *synthesize ideas across the topics* in a unit and *enhance your understanding through collaboration*. The projects will be designed to be finished within class time.
+:::
+
+Projects will a grade of Pass (P) or Not Yet (NY). Requirements for passing each mini-project will be clearly stated on each project prompt.
+
+**Revising and resubmitting mini-projects:** If you receive a grade of NY, you can revise and resubmit your work without penalty as long as you do the following:
+
+- **Each group member** must submit a reflection paragraph that addresses: What improvements were you asked to make based on feedback on your previous submission? How has reviewing your feedback improved your understanding? (What do you understand better/differently than you did before?) Each group member should email this reflection paragraph to the instructor.
+- **One group member** should submit the revised project file to the same link on Moodle. This group member should email the instructor once this is submitted.
+
+### Content conversations
+
+A content conversation (CC) is a 15 or 20 minute conversation that you and I will have about course content. There will be 2 CCs in the semester (weeks of 2/19 and 4/22). 
+
+- Content conversation 1: This conversation will be 15 minutes. Schedule this during the week of 2/19-2/23 via [Calendly](https://calendly.com/lmyint).
+- Content conversation 2: This conversation will be 20 minutes. Schedule this during the week of 4/22-4/26 via [Calendly](https://calendly.com/lmyint).
+
+One week before the CC, I will provide a set of problems that you can (and should!) work on with peers. During the CC, we will talk through a subset of those problems. I will choose some problems that I'd like you to talk through, and in the time remaining, you will talk through a problem (or part of a problem) of your choosing.
+
+::: {.callout-tip title="Purpose"}
+The purpose of a CC is to encourage *deep and collaborative study* and to give us a both a *detailed understanding of your learning*.
+:::
+
+Before the CC I will provide a rubric that explains how I will assess your understanding. I will also provide requirements for a grade of Pass. If you do not Pass a CC, you will receive a grade of Not Yet.
+
+**Re-attempting a content conversation:** If you receive a grade of NY, you can re-attempt the CC without penalty as long as you do the following:
+
+- Schedule another conversation of the same length as the original CC (via [Calendly](https://calendly.com/lmyint)). Schedule this *at least 1 week* after your previous CC.
+- Revise how you will talk through the problem (or parts of problems) that you struggled with.
+- Reflect on the following: What improvements were you asked to make based on feedback on your previous submission? How has reviewing your feedback improved your understanding? (What do you understand better/differently than you did before?) Be prepared to tell me about this reflection at the next CC.
+
+### Project
+
+We will have a course-long project in which you apply concepts from class to evaluate research related to a health-adjacent topic of your choosing.
+
+::: {.callout-tip title="Purpose"}
+The purpose of the project is to *connect* course concepts with a topic that is *relevant and meaningful* to you.
+:::
+
+On each homework assignment, there will be a task that advances your project in a way that connects to the most recent course concepts. You will receive feedback that you should incorporate into your final product.
+
+More details about the project will be hosted on the [Project page](project.qmd).
+
+
+<br><br><br><br>
+
+
+# Textbooks
+
+While not required, the following textbooks is a useful reference that is freely available online:
+
+- [Foundations of Epidemiology](https://open.oregonstate.education/epidemiology/) by Marit L. Bovbjerg
+
+
+<br><br><br><br>
+
+
+# Other policies
+
+## Late work
+
+Homework assignments will be due **weekly on Mondays at midnight**. If you anticipate needing more time to complete an assignment, please email me ahead of time to discuss. **Limited** extensions will always be granted:
+
+- **The ideal extension:** Turn in the homework by the following **Wednesday** morning at 9am (a 1 day, 9 hour extension). The instructional team will often be working to give feedback on Wednesdays, so having an assignment turned in by Wednesday morning is helpful.
+
+
+## Academic integrity
+
+Academic integrity is the cornerstone of our learning community. Students are expected to be familiar with the [college's standards](http://www.macalester.edu/academicprograms/academicpolicies/academicintegrity/) on academic integrity.
+
+I encourage you to work with your classmates to discuss material and ideas for assignments, but in order for you to receive individualized feedback on your own learning, you must submit your own work. This involves writing your own code and putting explanations into your own words. Always cite any sources you use, including AI (see section below).
+
+## Artificial intelligence (AI) use
+
+AI tools (e.g., ChatGPT, Google Bard) are going to be a part of our future, so while I will not be prohibiting AI usage, I want you to be aware of the limits of AI:
+
+- AI does not always generate accurate output. If it gives you a number, fact, or code, assume it is wrong unless you either know the answer or can check in with another source. AI works best for topics you already understand to a sufficient extent.
+- If you provide minimum effort prompts, you will get low quality results. You will need to refine your prompts in order to get good outcomes. This will take work.
+- Be thoughtful about when this tool is useful. Don’t use it if it isn’t appropriate for the case or circumstance.
+- The environmental impact of AI should not be ignored. The building and usage of AI tools consumes a lot of energy (see [here](https://www.nature.com/articles/s42256-020-0219-9) and [here](https://www.cfr.org/blog/artificial-intelligences-environmental-costs-and-promise)). For this reason, we will be very thoughtful about when we use AI and will discuss other sustainability behaviors that we can incorporate into our lives to offset this usage.
+- AI is a tool, but one that you need to acknowledge using. Any ideas, language, or code that is produced by AI must be cited, just like any other resource.
+    - **How to cite AI:** Please include a paragraph at the end of any assignment that uses AI explaining what you used the AI for and what prompts you used to get the results. Failure to do so is in violation of the academic integrity policy at Macalester College.
+
+If you have any questions about your use of AI tools, please contact me to discuss them.
+
+
+<br><br><br><br>
+
+
+# The environment you deserve
+
+I want you to succeed. Both here at Macalester and beyond. To help make this happen, I am committed to the following.
+
+**Respect:** Everyone comes from a different path through life, and it is our moral duty as human beings to listen to each other without judgment and to respect one another. I have no tolerance for discrimination of any kind, in and out of the classroom. If you are seeking campus resources regarding discrimination, the [Department of Multicultural Life](https://www.macalester.edu/multiculturallife/) and the [Center for Religious and Spiritual Life](https://www.macalester.edu/religiouslife/) are wonderful resources.
+
+**Sensitive Topics:** Epidemiologic applications span issues in science, policy, and society. As such, we may sometimes address topics that are sensitive for you. I will try to announce in class if an assignment or activity involves a potentially sensitive topic. If you have reservations about a particular topic, please come talk to me to discuss possible options.
+
+**Accommodations:** If you need accommodations for any reason, please contact [Disability Services](https://www.macalester.edu/studentaffairs/disabilityservices/accommodations/) to discuss your needs, and speak with me as soon as possible afterwards so that we can discuss your accommodation plan. If you already have official accommodations, please discuss these with me within the first week of class so that you get off to a great start. Contact me if you have other special circumstances. I will find resources for you.
+
+**Title IX:** You deserve a community free from discrimination, sexual harassment, hostility, sexual assault, domestic violence, dating violence, and stalking. If you or anyone you know has experienced harassment or discrimination, know that you are not alone. Macalester provides staff and resources to help you find support. More information is available on the [Title IX website](https://www.macalester.edu/titleix/).
+
+**General Health and Well-being:** I care that you prioritize your well-being in this semester and beyond. Investing time into taking care of yourself will have profound impacts on all aspects of your life. Remember that beyond being a student, you are a human being carrying your own experiences, thoughts, emotions, and identities. It is important to acknowledge any stressors you may be facing, which can be mental, emotional, physical, cultural, financial, etc., and how they can have an impact on you. I encourage you to remember that you have a body with needs. In the classroom, eat when you are hungry, drink water, use the restroom, and step out if you are upset and need some air. Please do what is necessary so long as it does not impede your or others' ability to be mentally and emotionally present in the course. Outside of the classroom, sleeping well, moving your body, and connecting with others can be strategies can help nourish you. If you are having difficulties maintaining your well-being, please don't hesitate to contact me and/or find support from physical and mental health resources [here](https://docs.google.com/document/d/1lz-ii5yze_OSkQJqz_7pap7fRjG81LJh0_saBniP-zg/edit) and [here](https://docs.google.com/document/d/1iC-ykD8QJ-w2BVO1Gb0AobD-00Zq_8mznWR5C2mNiF0/edit?usp=sharing).
