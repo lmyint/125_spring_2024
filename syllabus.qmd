@@ -256,7 +256,7 @@ Projects will a grade of Pass (P) or Not Yet (NY). Requirements for passing each
 
 ### Content conversations
 
-A content conversation (CC) is a 15 or 20 minute conversation that you and I will have about course content. There will be 2 CCs in the semester (weeks of 2/19 and 4/22). 
+A content conversation (CC) is a 15 or 20 minute conversation that you and I will have about course content. There will be 2 CC's in the semester (weeks of 2/19 and 4/22). 
 
 - Content conversation 1: This conversation will be 15 minutes. Schedule this during the week of 2/19-2/23 via [Calendly](https://calendly.com/lmyint).
 - Content conversation 2: This conversation will be 20 minutes. Schedule this during the week of 4/22-4/26 via [Calendly](https://calendly.com/lmyint).
@@ -264,14 +264,14 @@ A content conversation (CC) is a 15 or 20 minute conversation that you and I wil
 One week before the CC, I will provide a set of problems that you can (and should!) work on with peers. During the CC, we will talk through a subset of those problems. I will choose some problems that I'd like you to talk through, and in the time remaining, you will talk through a problem (or part of a problem) of your choosing.
 
 ::: {.callout-tip title="Purpose"}
-The purpose of a CC is to encourage *deep and collaborative study* and to give us a both a *detailed understanding of your learning*.
+The purpose of a CC is to encourage *deep and collaborative study* and to give us both a *detailed understanding of your learning*.
 :::
 
 Before the CC I will provide a rubric that explains how I will assess your understanding. I will also provide requirements for a grade of Pass. If you do not Pass a CC, you will receive a grade of Not Yet.
 
 **Re-attempting a content conversation:** If you receive a grade of NY, you can re-attempt the CC without penalty as long as you do the following:
 
-- Schedule another conversation of the same length as the original CC (via [Calendly](https://calendly.com/lmyint)). Schedule this *at least 1 week* after your previous CC.
+- Schedule another conversation of the same length as the original CC (via [Calendly](https://calendly.com/lmyint)).
 - Revise how you will talk through the problem (or parts of problems) that you struggled with.
 - Reflect on the following: What improvements were you asked to make based on feedback on your previous submission? How has reviewing your feedback improved your understanding? (What do you understand better/differently than you did before?) Be prepared to tell me about this reflection at the next CC.
 

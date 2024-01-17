@@ -19,16 +19,16 @@ website:
         text: "Schedule"
       - file: syllabus.qmd
         text: "Syllabus"
-      # - sidebar:activities
+      - sidebar:activities
       # - sidebar:homework
       - file: project.qmd
         text: "Project"
 
-  # sidebar:
-  #   - id: activities
-  #     title: "Activities"
-  #     contents:
-  #       - 01-introductions.qmd
+  sidebar:
+    - id: activities
+      title: "Activities"
+      contents:
+        - 01-introductions.qmd
   # 
   #   - id: homework
   #     title: "Homework"

@@ -1,0 +1,105 @@
+---
+title: "Welcome to the course!"
+sidebar: false
+---
+
+Welcome to Epidemiology! I love thinking about health and well-being and sharing the value of data-driven thinking with others, so teaching this course is very meaningful to me.
+
+I know that because this course is a requirement for the [CGH concentration](https://www.macalester.edu/cgh/concentration/) and because it's a Q3 course, there are a lot of different motivations for taking this course. **I truly believe that everyone can gain something meaningful from this course.**
+
+
+<br><br>
+
+
+## Plan for today
+
+- What is this course about?
+- Get to know your classmates
+- Thinking about the themes of epidemiology
+
+(I am not planning to talk about syllabus details today. I think it's a better use of time to bring up syllabus details as they're relevant--starting next week. Feel free to ask me anything about the course during free moments today.)
+
+Open a space where you can write/type. Throughout today there will be pauses to write and reflect on various prompts.
+
+
+<br><br>
+
+
+## Reflection: health and public health
+
+What does "health" mean to you? What does "public health" mean to you?
+
+Let's take about 3 minutes to write a response.
+
+
+<br><br>
+
+
+## Motivating media
+
+[Tweet thread](https://twitter.com/RachelRRomeo/status/1166817555257942016): A speech pathologist uses data-driven practices to open up a world of connection for a father and son. ([Full thread](https://threadreaderapp.com/thread/1166817555257942016.html))
+
+
+<br><br>
+
+
+## What is this course about?
+
+Epidemiology is fundamentally concerned with addressing the following questions:
+
+- Who is suffering? Why?
+- What can we do about it?
+
+These questions can be addressed in so many ways. To some degree, every educational experience you've had touches on these questions.
+
+In this course we will use a **quantitative and data-oriented lens** to addressing these questions.
+
+
+<br><br>
+
+
+## Get to know your classmates
+
+In groups, introduce yourselves with the following prompts: (~2 minutes/person)
+
+- Name, preferred pronouns
+- Macalester connections (e.g., majors/minors/concentrations, clubs, teams, events regularly attended)
+- What do "health" and "public health" mean to you?
+- If you could investigate any topic related to health or well-being, what would it be and why?
+
+When we come back together, you will introduce **someone else** from your group briefly with:
+
+- Their name and preferred pronouns
+- The health/well-being topic they would like to investigate
+
+
+<br><br>
+
+
+## Exploring the themes of epidemiology
+
+After watching the following two videos, you'll discuss a few questions in your groups:
+
+- [John Snow: Pioneer of Epidemiology](https://tpt.pbslearningmedia.org/asset/envh10_vid_johnsnow/)
+- [Mystery Illness in New York City](https://tpt.pbslearningmedia.org/asset/midlit11_vid_splwnilea/)
+
+Discuss the following questions in your groups, and record your answers (not to be turned in--just for your notes):
+
+- What commonalities are there in how these two public health investigations proceeded?
+- What limitations do you see in the process of collecting information through interviews? In equivalent public health situations today, what other data gathering mechanisms might be available?
+- In these two settings, how did investigators go about formulating a hypothesis for an underlying cause of the disease outbreaks? What did they do to test their hypotheses?
+
+<br>
+
+Another conundrum to consider: In the early months of the COVID-19 pandemic, an article that explored many different risk factors for COVID was circulating. The study authors used data from hospitalized patients to scan for factors associated with having COVID. Surprisingly, smoking was found to be *protective* for COVID--that is, smokers were found to be less likely to have COVID:
+
+<center>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Here is the study that inspired this tweetorial. 👇🏼<br><br>They looked at a truly huge number of people presenting to medical care in the UK and then compared how common it was for people to die in hospital from COVID across a whoooooole bunch of different types of people. <a href="https://t.co/sw2NcCvglr">https://t.co/sw2NcCvglr</a></p>&mdash; Dr Ellie Murray, ScD (@EpiEllie) <a href="https://twitter.com/EpiEllie/status/1258607280133681155?ref_src=twsrc%5Etfw">May 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</center>
+
+Discuss the following with your groups, and record your thoughts:
+
+- Brainstorm some ideas for the counterintuitive finding that smoking protects against getting COVID.
+- The concept of "correlation does not imply causation" is the idea that just because two factors seem to be related doesn't mean that one causes the other. How do you think that we can try to determine whether a given correlation (an apparent relationship between two factors) is actually causation (a relationship in which one actually does cause the other)?
+
+
