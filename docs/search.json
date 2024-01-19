@@ -49,11 +49,18 @@
     "text": "Exploring the themes of epidemiology\nAfter watching the following two videos, you’ll discuss a few questions in your groups:\n\nJohn Snow: Pioneer of Epidemiology\nMystery Illness in New York City\n\nDiscuss the following questions in your groups, and record your answers (not to be turned in–just for your notes):\n\nWhat commonalities are there in how these two public health investigations proceeded?\nWhat limitations do you see in the process of collecting information through interviews? In equivalent public health situations today, what other data gathering mechanisms might be available?\nIn these two settings, how did investigators go about formulating a hypothesis for an underlying cause of the disease outbreaks? What did they do to test their hypotheses?\n\n\nAnother conundrum to consider: In the early months of the COVID-19 pandemic, an article that explored many different risk factors for COVID was circulating. The study authors used data from hospitalized patients to scan for factors associated with having COVID. Surprisingly, smoking was found to be protective for COVID–that is, smokers were found to be less likely to have COVID:\n\n\n\nHere is the study that inspired this tweetorial. 👇🏼They looked at a truly huge number of people presenting to medical care in the UK and then compared how common it was for people to die in hospital from COVID across a whoooooole bunch of different types of people. https://t.co/sw2NcCvglr\n\n— Dr Ellie Murray, ScD (@EpiEllie) May 8, 2020\n\n\n\nDiscuss the following with your groups, and record your thoughts:\n\nBrainstorm some ideas for the counterintuitive finding that smoking protects against getting COVID.\nThe concept of “correlation does not imply causation” is the idea that just because two factors seem to be related doesn’t mean that one causes the other. How do you think that we can try to determine whether a given correlation (an apparent relationship between two factors) is actually causation (a relationship in which one actually does cause the other)?"
   },
   {
+    "objectID": "01-introductions.html#announcements",
+    "href": "01-introductions.html#announcements",
+    "title": "Welcome to the course!",
+    "section": "Announcements",
+    "text": "Announcements\nBefore class on Tuesday, please do the following:\n\nComplete the pre-course survey.\nLook at the Course Schedule to see what’s coming up. Next Tuesday we will start our unit on Disease Measurement. There is one video to watch before class on Tuesday. Questions to guide your comprehension are located at the bottom of the course schedule page."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "STAT 125: Epidemiology (Spring 2024)",
     "section": "",
-    "text": "This is the course website for STAT 125: Epidemiology at Macalester College for the Spring 2024 semester taught by Professor Leslie Myint. Materials were developed by Leslie Myint and Vittorio Addona.\n\nDrop-in (office) hours\nLeslie\n\nWhere? OLRI 232\nWhen? TBD\n\nI’m also happy to meet one-on-one if my normal drop-in hours don’t work. You can schedule a time to meet with me via Calendly.\nAlayna\n\nWhere? TBD\nWhen? TBD\n\nSophie\n\nWhere? TBD\nWhen? TBD"
+    "text": "This is the course website for STAT 125: Epidemiology at Macalester College for the Spring 2024 semester taught by Professor Leslie Myint. Materials were developed by Leslie Myint and Vittorio Addona.\n\nDrop-in (office) hours\nLeslie\n\nWhere? OLRI 232\nWhen? TBD\n\nI’m also happy to meet one-on-one if my normal drop-in hours don’t work. You can schedule a time to meet with me via Calendly.\nAlayna\n\nWhere? Idea Lab (2nd floor of library)\nWhen? Tuesdays and Thursdays 7:00-8:00pm\n\nSophie\n\nWhere? Idea Lab (2nd floor of library)\nWhen? Sundays 7:00-9:00pm"
   },
   {
     "objectID": "project.html",
@@ -95,7 +102,7 @@
     "href": "syllabus.html#meet-the-instructional-team",
     "title": "Syllabus",
     "section": "Meet the instructional team",
-    "text": "Meet the instructional team\n\nLeslie Myint (instructor)\nAbout me: One of my greatest joys is sharing the beauty of data-driven thinking, so I’m thrilled to be teaching Epidemiology! I also get very excited talking about all things games! I love playing board games, Dungeons and Dragons (D&D), and Nintendo console games. I also love staying active with weightlifting and rock climbing and hoping to learn cross-country skiing this winter!\nAlayna Johnson (preceptor)\n\nAbout me:\n\nSophie McEwen (preceptor)\n\nAbout me:"
+    "text": "Meet the instructional team\n\nLeslie Myint (instructor)\nAbout me: One of my greatest joys is sharing the beauty of data-driven thinking, so I’m thrilled to be teaching Epidemiology! I also get very excited talking about all things games! I love playing board games, Dungeons and Dragons (D&D), and Nintendo console games. I also love staying active with weightlifting and rock climbing and hoping to learn cross-country skiing this winter!\nAlayna Johnson (preceptor)\n\nAbout me: My name is Alayna (she/her) and I am a junior Statistics major with a concentration in Community and Global Health. My favorite things to do are paint and rot in bed. I took Epidemiology last year in the Spring of 2023 with Victor Addona, and I am excited to precept for Leslie this semester!\n\nSophie McEwen (preceptor)\n\nAbout me: I’m an anthropology major with a CGH concentration. I run for Mac in cross country and track and field! I love traveling, crosswords, and all things NYTimes word games. One of my favorite books and one I will always recommend is Mountains Beyond Mountains by Tracy Kidder (a great book that is also about public health)."
   },
   {
     "objectID": "syllabus.html#how-to-contact-me",
@@ -187,12 +194,5 @@
     "title": "Syllabus",
     "section": "Artificial intelligence (AI) use",
     "text": "Artificial intelligence (AI) use\nAI tools (e.g., ChatGPT, Google Bard) are going to be a part of our future, so while I will not be prohibiting AI usage, I want you to be aware of the limits of AI:\n\nAI does not always generate accurate output. If it gives you a number, fact, or code, assume it is wrong unless you either know the answer or can check in with another source. AI works best for topics you already understand to a sufficient extent.\nIf you provide minimum effort prompts, you will get low quality results. You will need to refine your prompts in order to get good outcomes. This will take work.\nBe thoughtful about when this tool is useful. Don’t use it if it isn’t appropriate for the case or circumstance.\nThe environmental impact of AI should not be ignored. The building and usage of AI tools consumes a lot of energy (see here and here). For this reason, we will be very thoughtful about when we use AI and will discuss other sustainability behaviors that we can incorporate into our lives to offset this usage.\nAI is a tool, but one that you need to acknowledge using. Any ideas, language, or code that is produced by AI must be cited, just like any other resource.\n\nHow to cite AI: Please include a paragraph at the end of any assignment that uses AI explaining what you used the AI for and what prompts you used to get the results. Failure to do so is in violation of the academic integrity policy at Macalester College.\n\n\nIf you have any questions about your use of AI tools, please contact me to discuss them."
-  },
-  {
-    "objectID": "01-introductions.html#announcements",
-    "href": "01-introductions.html#announcements",
-    "title": "Welcome to the course!",
-    "section": "Announcements",
-    "text": "Announcements\nBefore class on Tuesday, please do the following:\n\nComplete the pre-course survey.\nLook at the Course Schedule to see what’s coming up. Next Tuesday we will start our unit on Disease Measurement. There is one video to watch before class on Tuesday. Questions to guide your comprehension are located at the bottom of the course schedule page."
   }
 ]

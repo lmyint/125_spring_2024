@@ -1,5 +1,6 @@
 ---
 title: "Syllabus"
+sidebar: false
 ---
 
 # What is this course about?
@@ -41,11 +42,11 @@ By the end of this course you should be able to:
 
 **Alayna Johnson (preceptor)**
 
-- **About me:**
+- **About me:** My name is Alayna (she/her) and I am a junior Statistics major with a concentration in Community and Global Health. My favorite things to do are paint and rot in bed. I took Epidemiology last year in the Spring of 2023 with Victor Addona, and I am excited to precept for Leslie this semester!
 
 **Sophie McEwen (preceptor)**
 
-- **About me:**
+- **About me:** I'm an anthropology major with a CGH concentration. I run for Mac in cross country and track and field! I love traveling, crosswords, and all things NYTimes word games. One of my favorite books and one I will always recommend is Mountains Beyond Mountains by Tracy Kidder (a great book that is also about public health).
 
 ## How to contact me
 
