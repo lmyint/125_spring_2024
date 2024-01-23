@@ -3,4 +3,42 @@ title: "Project"
 sidebar: false
 ---
 
-Details about the course project will be described here soon.
+# Goal
+
+The goal of the project is to apply our course concepts to analyze a health or well-being topic of your choosing. I would like this project to be a **meaningful use of your time**, so I encourage you to **pick a health or well-being topic that is relevant to you**.
+
+
+<br><br>
+
+
+# Project requirements
+
+## Team size
+
+You can work alone or in groups of up to 3 for this project.
+
+## Aligning with other classes
+
+You may choose a project topic that is the same or similar to a topic that you're exploring in another course. This is encouraged! Combining multiple course perspectives can significantly increase the quality of your work.
+
+## Format
+
+You will create a blog post/web page that allows viewers to explore your health/well-being topic. This page should contain the following sections:
+
+- **Introduction and motivation:**
+    - Introduce the reader to the health/well-being topic that you're studying. Describe any biology, social science, and/or other background context that would help the reader understand what this area is.
+    - Describe the importance of this condition in terms of relevant ideas from our **Measurement** unit: prevalence (burden), incidence (risk), life expectancy, survival.
+
+- **Evaluation of published research:**
+    - Discuss what exposures, risk factors, and interventions researchers have studied with regards to your topic by evaluating the methods and findings of published research, with attention to limitations.
+    - Each group member should find and evaluate one research article. This section should have one subsection per article.
+    - In evaluating the **methods** of a research article, describe the study design used, why this study design was used (in terms of the research questions and feasibility), and limitations you saw or that the authors discussed in terms of study implementation (conduct of the study, measurement of variables). Draw upon ideas from our **Study Designs** unit: observational studies, cohort studies, case-control studies, ecological studies, randomized experiments.
+    - In evaluating the **findings** of a research article, evaluate the ways in which the researchers interpret their statistical findings in the Results and Discussion sections of the article. Do the researchers interpret results accurately and draw reasonable conclusions? Draw upon ideas from our **Causal Inference and Statistical Thinking** units: direct and indirect standardization (part of our Measurement unit but related to Causal Inference unit), confounding, causation, causal diagrams (causal graphs), sampling error and confidence intervals, hypothesis testing, biases and measurement error.
+
+## Rubric
+
+The rubric below details quality expectations for the different aspects of the project described in the Format section above.
+
+*Details coming soon.*
+
+

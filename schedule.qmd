@@ -123,7 +123,7 @@ Videos that I will ask you to watch before class can be found in [this YouTube p
     
     <td class="topleft">
       Homework 2 due Monday 2/19 at midnight.<br>
-      Schedule Content Conversation 1 (15 minutes) for next week (2/19-2/23).
+      Schedule Content Conversation 1 (15 minutes) for next week (2/21-2/28).
     </td>
   </tr>
   <!----------------------------------------------------------->
@@ -161,6 +161,7 @@ Videos that I will ask you to watch before class can be found in [this YouTube p
     </td>
     
     <td class="topleft">
+      Content Conversation 1 (15 minutes) will be taking place this week.
     </td>
   </tr>
   <!----------------------------------------------------------->

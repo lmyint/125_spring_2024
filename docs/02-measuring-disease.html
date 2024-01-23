@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>STAT 125 - Welcome to the course!</title>
+<title>STAT 125 - Measuring disease</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -59,6 +59,22 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script>window.backupDefine = window.define; window.define = undefined;</script><script src="https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.js"></script>
+  <script>document.addEventListener("DOMContentLoaded", function () {
+ var mathElements = document.getElementsByClassName("math");
+ var macros = [];
+ for (var i = 0; i < mathElements.length; i++) {
+  var texText = mathElements[i].firstChild;
+  if (mathElements[i].tagName == "SPAN") {
+   katex.render(texText.data, mathElements[i], {
+    displayMode: mathElements[i].classList.contains('display'),
+    throwOnError: false,
+    macros: macros,
+    fleqn: false
+   });
+}}});
+  </script>
+  <script>window.define = window.backupDefine; window.backupDefine = undefined;</script><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.css">
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -127,13 +143,9 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#plan-for-today" id="toc-plan-for-today" class="nav-link active" data-scroll-target="#plan-for-today">Plan for today</a></li>
-  <li><a href="#reflection-health-and-public-health" id="toc-reflection-health-and-public-health" class="nav-link" data-scroll-target="#reflection-health-and-public-health">Reflection: health and public health</a></li>
-  <li><a href="#motivating-media" id="toc-motivating-media" class="nav-link" data-scroll-target="#motivating-media">Motivating media</a></li>
-  <li><a href="#what-is-this-course-about" id="toc-what-is-this-course-about" class="nav-link" data-scroll-target="#what-is-this-course-about">What is this course about?</a></li>
-  <li><a href="#get-to-know-your-classmates" id="toc-get-to-know-your-classmates" class="nav-link" data-scroll-target="#get-to-know-your-classmates">Get to know your classmates</a></li>
-  <li><a href="#exploring-the-themes-of-epidemiology" id="toc-exploring-the-themes-of-epidemiology" class="nav-link" data-scroll-target="#exploring-the-themes-of-epidemiology">Exploring the themes of epidemiology</a></li>
-  <li><a href="#announcements" id="toc-announcements" class="nav-link" data-scroll-target="#announcements">Announcements</a></li>
+  <li><a href="#learning-goals" id="toc-learning-goals" class="nav-link active" data-scroll-target="#learning-goals">Learning goals</a></li>
+  <li><a href="#review-of-video-material" id="toc-review-of-video-material" class="nav-link" data-scroll-target="#review-of-video-material">Review of video material</a></li>
+  <li><a href="#activity" id="toc-activity" class="nav-link" data-scroll-target="#activity">Activity</a></li>
   </ul>
 </nav>
     </div>
@@ -142,7 +154,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Welcome to the course!</h1>
+<h1 class="title">Measuring disease</h1>
 </div>
 
 
@@ -157,96 +169,64 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>Welcome to Epidemiology! I love thinking about health and well-being and sharing the value of data-driven thinking with others, so teaching this course is very meaningful to me.</p>
-<p>I know that because this course is a requirement for the <a href="https://www.macalester.edu/cgh/concentration/">CGH concentration</a> and because it’s a Q3 course, there are a lot of different motivations for taking this course. <strong>I truly believe that everyone can gain something meaningful from this course.</strong></p>
-<p><br><br></p>
-<section id="plan-for-today" class="level2">
-<h2 class="anchored" data-anchor-id="plan-for-today">Plan for today</h2>
+<section id="learning-goals" class="level1">
+<h1>Learning goals</h1>
+<p>After this lesson, you should be able to:</p>
 <ul>
-<li>What is this course about?</li>
-<li>Get to know your classmates</li>
-<li>Thinking about the themes of epidemiology</li>
+<li>Describe the difference between prevalence and incidence in terms of the concepts of disease risk and disease burden.</li>
+<li>Evaluate whether information on prevalence or incidence is more relevant to a particular public health question.</li>
+<li>Compute prevalence, cumulative incidence, and incidence rate from appropriate data.</li>
+<li>Describe how the prevalence of a disease is affected by incidence and typical duration of disease.</li>
 </ul>
-<p>(When I go through announcements at the end of class, I’ll also go over some syllabus highlights.)</p>
-<p>Open a space where you can write/type. Throughout today there will be pauses to write and reflect on various prompts.</p>
-<p><br><br></p>
+<p><br><br><br><br></p>
 </section>
-<section id="reflection-health-and-public-health" class="level2">
-<h2 class="anchored" data-anchor-id="reflection-health-and-public-health">Reflection: health and public health</h2>
-<p>What does “health” mean to you? What does “public health” mean to you?</p>
-<p>Let’s take about 3 minutes to write a response.</p>
-<p><br><br></p>
-</section>
-<section id="motivating-media" class="level2">
-<h2 class="anchored" data-anchor-id="motivating-media">Motivating media</h2>
-<p><a href="https://twitter.com/RachelRRomeo/status/1166817555257942016">Tweet thread</a>: A speech pathologist uses data-driven practices to open up a world of connection for a father and son. (<a href="https://threadreaderapp.com/thread/1166817555257942016.html">Full thread</a>)</p>
-<p><br><br></p>
-</section>
-<section id="what-is-this-course-about" class="level2">
-<h2 class="anchored" data-anchor-id="what-is-this-course-about">What is this course about?</h2>
-<p>Epidemiology is fundamentally concerned with addressing the following questions:</p>
+<section id="review-of-video-material" class="level1">
+<h1>Review of video material</h1>
+<p>Central question: how “common” is a given disease?</p>
+<p>Thinking about the word “common” involves contrasting the notions of disease <strong>risk</strong> and <strong>burden</strong>.</p>
 <ul>
-<li>Who is suffering? Why?</li>
-<li>What can we do about it?</li>
-</ul>
-<p>These questions can be addressed in so many ways. To some degree, every educational experience you’ve had touches on these questions.</p>
-<p>In this course we will use a <strong>quantitative and data-oriented lens</strong> to addressing these questions.</p>
-<p><br><br></p>
-</section>
-<section id="get-to-know-your-classmates" class="level2">
-<h2 class="anchored" data-anchor-id="get-to-know-your-classmates">Get to know your classmates</h2>
-<p>In groups, introduce yourselves with the following prompts: (~2 minutes/person)</p>
+<li><strong>Risk:</strong> How likely is it for an individual to develop this disease within a given time span?
 <ul>
-<li>Name, preferred pronouns</li>
-<li>Macalester connections (e.g., majors/minors/concentrations, clubs, teams, events regularly attended)</li>
-<li>What do “health” and “public health” mean to you?</li>
-<li>If you could investigate any topic related to health or well-being, what would it be and why?</li>
-</ul>
-<p>When we come back together, you will introduce <strong>someone else</strong> from your group briefly with:</p>
+<li>Concerned with <em>new</em> disease cases</li>
+<li>Measured with <strong>incidence</strong> (cumulative incidence and incidence rate)</li>
+</ul></li>
+<li><strong>Burden:</strong> How much of the population is living with the disease now?
 <ul>
-<li>Their name and preferred pronouns</li>
-<li>The health/well-being topic they would like to investigate</li>
+<li>Concerned with <em>existing</em> disease cases</li>
+<li>Measured with <strong>prevalence</strong></li>
+</ul></li>
 </ul>
-<p><br><br></p>
-</section>
-<section id="exploring-the-themes-of-epidemiology" class="level2">
-<h2 class="anchored" data-anchor-id="exploring-the-themes-of-epidemiology">Exploring the themes of epidemiology</h2>
-<p>After watching the following two videos, you’ll discuss a few questions in your groups:</p>
+<p>With prevalence and incidence measures, we need to be very careful about denominators. Everyone represented by the denominator must be capable of being counted in the numerator–otherwise, the measure gives a distorted view of how “common” the disease is.</p>
+<p><span class="math display">
+\text{Prevalence} = \frac{\text{# cases at a given time}}{\text{# who COULD be a case at a given time}}
+</span></p>
+<p><strong>Example:</strong> In a recent survey of 1000 people, 11 report having asthma. The estimated prevalence of asthma would be 11/1000 = 0.011 or 1.1%. - Interpretation: An estimated 1.1% of people are living with asthma right now.</p>
+<p><strong>Question:</strong> Suppose we are trying to estimate the prevalence of COVID at Macalester on January 1, 2024. Do you think that “total # of employees hired and students enrolled on Jan 1” is a good denominator? Explain.</p>
+<p><span class="math display">
+\text{Cumulative incidence} = \frac{\text{# NEW cases that develop over a time span}}{\text{# who COULD be a case in that time span}}
+</span></p>
+<p><strong>Example:</strong> A study followed 1000 children fully for the first 5 years of their lives. 12 develop asthma within that time. The estimated cumulative incidence would be 12/1000 = 0.012 or 1.2%. - Interpretation: We estimate that 1.2% of children will develop asthma in the first 5 years of life.</p>
+<p><span class="math display">
+\text{Incidence rate} = \frac{\text{# NEW cases that develop over a time span}}{\text{Total person-years at risk}}
+</span></p>
 <ul>
-<li><a href="https://tpt.pbslearningmedia.org/asset/envh10_vid_johnsnow/">John Snow: Pioneer of Epidemiology</a></li>
-<li><a href="https://tpt.pbslearningmedia.org/asset/midlit11_vid_splwnilea/">Mystery Illness in New York City</a></li>
-</ul>
-<p>Discuss the following questions in your groups, and record your answers (not to be turned in–just for your notes):</p>
+<li>If individuals in a study are followed up for different lengths of time, it is better to use the incidence rate rather than cumulative incidence so that the total time that individuals were followed up is more accurately represented.
 <ul>
-<li>What commonalities are there in how these two public health investigations proceeded?</li>
-<li>What limitations do you see in the process of collecting information through interviews? In equivalent public health situations today, what other data gathering mechanisms might be available?</li>
-<li>In these two settings, how did investigators go about formulating a hypothesis for an underlying cause of the disease outbreaks? What did they do to test their hypotheses?</li>
+<li>Why? A study follows 1000 people for 5 years, but most individuals stop participating in the study by year 2. We’re really not observing the 1000 people for the full 5 years. There’s quite a lot of time in those 5 years that we’re not observing people who may develop disease. Using cumulative incidence would <strong>understate</strong> the risk of the disease.</li>
+</ul></li>
 </ul>
+<p><strong>Example:</strong> A study followed 1000 children for the first 5 years of their lives for a total of 2500 person-years of follow up. 12 develop asthma within that time. The estimated incidence rate would be 12/2500 = 0.0048 cases per person-year. - Interpretation: We estimate that 0.0048 new cases of asthma in children per person-year. Because 1/0.0048 = 208.33, we could also phrase this as 1 case per 208.33 person-years.</p>
 <p><br></p>
-<p>Another conundrum to consider: In the early months of the COVID-19 pandemic, an article that explored many different risk factors for COVID was circulating. The study authors used data from hospitalized patients to scan for factors associated with having COVID. Surprisingly, smoking was found to be <em>protective</em> for COVID–that is, smokers were found to be less likely to have COVID:</p>
-<center>
-<blockquote class="twitter-tweet blockquote">
-<p lang="en" dir="ltr">
-Here is the study that inspired this tweetorial. 👇🏼<br><br>They looked at a truly huge number of people presenting to medical care in the UK and then compared how common it was for people to die in hospital from COVID across a whoooooole bunch of different types of people. <a href="https://t.co/sw2NcCvglr">https://t.co/sw2NcCvglr</a>
-</p>
-— Dr Ellie Murray, ScD (<span class="citation" data-cites="EpiEllie">@EpiEllie</span>) <a href="https://twitter.com/EpiEllie/status/1258607280133681155?ref_src=twsrc%5Etfw">May 8, 2020</a>
-</blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</center>
-<p>Discuss the following with your groups, and record your thoughts:</p>
-<ul>
-<li>Brainstorm some ideas for the counterintuitive finding that smoking protects against getting COVID.</li>
-<li>The concept of “correlation does not imply causation” is the idea that just because two factors seem to be related doesn’t mean that one causes the other. How do you think that we can try to determine whether a given correlation (an apparent relationship between two factors) is actually causation (a relationship in which one actually does cause the other)?</li>
-</ul>
-<p><br><br></p>
+<p>For conditions that are not very common (low prevalence):</p>
+<p><span class="math display">
+\text{Prevalence} \approx \text{Incidence} \times \text{Mean disease duration}
+</span></p>
+<p>Why is this approximate relationship important? - A disease that is common (high prevalence) doesn’t necessarily mean that the risk of getting that disease is high. It might just be that - Example: Males have a <a href="https://www.cdc.gov/cancer/uscs/about/data-briefs/no9-melanoma-incidence-mortality-UnitedStates-2012-2016.htm">higher melanoma incidence</a>, but males survive a shorter amount of time (see <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1570554/">here</a> and <a href="https://pubmed.ncbi.nlm.nih.gov/21150923/">here</a>) with it than females. Females might have a higher <em>prevalence</em> of melanoma than males even though their <em>risk</em> is lower.</p>
+<p><br><br><br><br></p>
 </section>
-<section id="announcements" class="level2">
-<h2 class="anchored" data-anchor-id="announcements">Announcements</h2>
-<p>Before class on Tuesday, please do the following:</p>
-<ul>
-<li>Complete the <a href="https://docs.google.com/forms/d/e/1FAIpQLSeh16Kjnm7WRNk02jIq6YTwrqlDKgVowKqRV8_DYTKS9DQFVQ/viewform?usp=sf_link">pre-course survey</a>.</li>
-<li>Look at the <a href="./schedule.html">Course Schedule</a> to see what’s coming up. Next Tuesday we will start our unit on <strong>Disease Measurement</strong>. There is one video to watch before class on Tuesday. Questions to guide your comprehension are located at the <a href="./schedule.html#guiding-questions">bottom of the course schedule page</a>.</li>
-</ul>
+<section id="activity" class="level1">
+<h1>Activity</h1>
+<p>Navigate to <a href="https://moodle.macalester.edu/mod/folder/view.php?id=82197">Moodle</a>, and open the PDF titled <code>02_measuring_disease_activity</code>.</p>
 
 
 </section>

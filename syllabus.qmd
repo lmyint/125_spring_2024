@@ -259,7 +259,7 @@ Projects will a grade of Pass (P) or Not Yet (NY). Requirements for passing each
 
 A content conversation (CC) is a 15 or 20 minute conversation that you and I will have about course content. There will be 2 CC's in the semester (weeks of 2/19 and 4/22). 
 
-- Content conversation 1: This conversation will be 15 minutes. Schedule this during the week of 2/19-2/23 via [Calendly](https://calendly.com/lmyint).
+- Content conversation 1: This conversation will be 15 minutes. Schedule this during the week of 2/21-2/28 via [Calendly](https://calendly.com/lmyint).
 - Content conversation 2: This conversation will be 20 minutes. Schedule this during the week of 4/22-4/26 via [Calendly](https://calendly.com/lmyint).
 
 One week before the CC, I will provide a set of problems that you can (and should!) work on with peers. During the CC, we will talk through a subset of those problems. I will choose some problems that I'd like you to talk through, and in the time remaining, you will talk through a problem (or part of a problem) of your choosing.

@@ -29,6 +29,7 @@ website:
       title: "Activities"
       contents:
         - 01-introductions.qmd
+        - 02-measuring-disease.qmd
   # 
   #   - id: homework
   #     title: "Homework"

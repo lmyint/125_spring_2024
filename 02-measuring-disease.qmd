@@ -1,0 +1,79 @@
+---
+title: "Measuring disease"
+sidebar: false
+---
+
+# Learning goals
+
+After this lesson, you should be able to:
+
+- Describe the difference between prevalence and incidence in terms of the concepts of disease risk and disease burden.
+- Evaluate whether information on prevalence or incidence is more relevant to a particular public health question.
+- Compute prevalence, cumulative incidence, and incidence rate from appropriate data.
+- Describe how the prevalence of a disease is affected by incidence and typical duration of disease.
+
+
+<br><br><br><br>
+
+
+# Review of video material
+
+Central question: how "common" is a given disease?
+
+Thinking about the word "common" involves contrasting the notions of disease **risk** and **burden**.
+
+- **Risk:** How likely is it for an individual to develop this disease within a given time span?
+    - Concerned with *new* disease cases
+    - Measured with **incidence** (cumulative incidence and incidence rate)
+- **Burden:** How much of the population is living with the disease now?
+    - Concerned with *existing* disease cases
+    - Measured with **prevalence**
+
+With prevalence and incidence measures, we need to be very careful about denominators. Everyone represented by the denominator must be capable of being counted in the numerator--otherwise, the measure gives a distorted view of how "common" the disease is.
+
+$$
+\text{Prevalence} = \frac{\text{# cases at a given time}}{\text{# who COULD be a case at a given time}}
+$$
+
+**Example:** In a recent survey of 1000 people, 11 report having asthma. The estimated prevalence of asthma would be 11/1000 = 0.011 or 1.1%.
+    - Interpretation: An estimated 1.1% of people are living with asthma right now.
+
+**Question:** Suppose we are trying to estimate the prevalence of COVID at Macalester on January 1, 2024. Do you think that "total # of employees hired and students enrolled on Jan 1" is a good denominator? Explain.
+
+$$
+\text{Cumulative incidence} = \frac{\text{# NEW cases that develop over a time span}}{\text{# who COULD be a case in that time span}}
+$$
+
+**Example:** A study followed 1000 children fully for the first 5 years of their lives. 12 develop asthma within that time. The estimated cumulative incidence would be 12/1000 = 0.012 or 1.2%.
+    - Interpretation: We estimate that 1.2% of children will develop asthma in the first 5 years of life.
+
+$$
+\text{Incidence rate} = \frac{\text{# NEW cases that develop over a time span}}{\text{Total person-years at risk}}
+$$
+
+- If individuals in a study are followed up for different lengths of time, it is better to use the incidence rate rather than cumulative incidence so that the total time that individuals were followed up is more accurately represented.
+    - Why? A study follows 1000 people for 5 years, but most individuals stop participating in the study by year 2. We're really not observing the 1000 people for the full 5 years. There's quite a lot of time in those 5 years that we're not observing people who may develop disease. Using cumulative incidence would **understate** the risk of the disease.
+    
+**Example:** A study followed 1000 children for the first 5 years of their lives for a total of 2500 person-years of follow up. 12 develop asthma within that time. The estimated incidence rate would be 12/2500 = 0.0048 cases per person-year.
+    - Interpretation: We estimate that 0.0048 new cases of asthma in children per person-year. Because 1/0.0048 = 208.33, we could also phrase this as 1 case per 208.33 person-years.
+    
+<br>
+
+For conditions that are not very common (low prevalence):
+
+$$
+\text{Prevalence} \approx \text{Incidence} \times \text{Mean disease duration}
+$$
+
+Why is this approximate relationship important?
+- A disease that is common (high prevalence) doesn't necessarily mean that the risk of getting that disease is high. It might just be that 
+- Example: Males have a [higher melanoma incidence](https://www.cdc.gov/cancer/uscs/about/data-briefs/no9-melanoma-incidence-mortality-UnitedStates-2012-2016.htm), but males survive a shorter amount of time (see [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1570554/) and [here](https://pubmed.ncbi.nlm.nih.gov/21150923/)) with it than females. Females might have a higher *prevalence* of melanoma than males even though their *risk* is lower.
+
+
+<br><br><br><br>
+
+
+# Activity
+
+Navigate to [Moodle](https://moodle.macalester.edu/mod/folder/view.php?id=82197), and open the PDF titled `02_measuring_disease_activity`.
+
