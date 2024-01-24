@@ -270,6 +270,6 @@
     "href": "02-measuring-disease.html#relationship-between-prevalence-and-incidence",
     "title": "Measuring disease",
     "section": "Relationship between prevalence and incidence",
-    "text": "Relationship between prevalence and incidence\nFor conditions that are not very common (low prevalence):\nPrevalence≈Incidence×Mean disease duration\n\\text{Prevalence} \\approx \\text{Incidence} \\times \\text{Mean disease duration}\n\nWhy is this approximate relationship important?\n\nA disease that is common (high prevalence) doesn’t necessarily mean that the risk of getting that disease is high. It might just be that\nExample: Males have a higher melanoma incidence, but males survive a shorter amount of time (see here and here) with it than females. Females might have a higher prevalence of melanoma than males even though their risk is lower."
+    "text": "Relationship between prevalence and incidence\nFor conditions that are not very common (low prevalence):\nPrevalence≈Incidence×Mean disease duration\n\\text{Prevalence} \\approx \\text{Incidence} \\times \\text{Mean disease duration}\n\nWhy is this approximate relationship important?\n\nLow prevalence doesn’t necessarily mean low risk.\nExample: Males have a higher melanoma incidence, but males survive a shorter amount of time (see here and here) with it than females. Females might have a higher prevalence of melanoma than males even though their risk is lower."
   }
 ]

@@ -97,7 +97,7 @@ $$
 
 Why is this approximate relationship important?
 
-- A disease that is common (high prevalence) doesn't necessarily mean that the risk of getting that disease is high. It might just be that 
+- Low prevalence doesn't necessarily mean low risk. 
 - Example: Males have a [higher melanoma incidence](https://www.cdc.gov/cancer/uscs/about/data-briefs/no9-melanoma-incidence-mortality-UnitedStates-2012-2016.htm), but males survive a shorter amount of time (see [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1570554/) and [here](https://pubmed.ncbi.nlm.nih.gov/21150923/)) with it than females. Females might have a higher *prevalence* of melanoma than males even though their *risk* is lower.
 
 
