@@ -108,3 +108,29 @@ Why is this approximate relationship important?
 
 Navigate to [Moodle](https://moodle.macalester.edu/mod/folder/view.php?id=82197), and open the PDF titled `02_measuring_disease_activity`.
 
+
+
+<br><br><br><br>
+
+
+# Broader application of these ideas
+
+I'm currently reading *Attached* by Amir Levine and Rachel Heller. This is a book about adult attachment theory in romantic relationships, and while it seems to be far removed from epidemiology, I found myself thinking about ideas from class this week when reading the early chapters.
+
+![](https://m.media-amazon.com/images/I/71kpAWQz7EL._AC_UF1000,1000_QL80_.jpg){width=300 fig-align="center"}
+
+> Adult attachment designates three main "attachment styles" or manners in which people perceive and respond to intimacy in romantic relationships, which parallel those found in children: Secure, Anxious, and Avoidant. Basically, *secure* people fell comfortable with intimacy and are usually warm and loving; *anxious* people crave intimacy, are often preoccupied with their relationships, and tend to worry about their partner's ability to love them back; and *avoidant* people equate intimacy with a loss of independence and constantly seek to minimize closeness.
+> ...
+> All people in our society, whether they have just started dating someone or have been married for forty years, fall into one of these categories, or, more rarely, into a combination of the latter two (anxious and avoidant). Just over 50% are secure, around 20% are anxious, 25% are avoidant, and the remaining 3-5% fall into the fourth, less common category (combination of anvious and avoidant).
+> *Attached*, pages 8-9
+
+These percentages are definitely prevalences, but I wondered about them because another part of the book discusses how people can change their attachment style. I wondered about what population these percentages are actually a snapshot of and whether (through this book!?) those percentages might likely change.
+
+My partner also floated the claim that the dating pool might actually be enriched for people with avoidant attachment styles. (He claimed that whatever the prevalence of the avoidant style in the general population, they form a greater percentage in the pool of people who are currently dating.)
+
+- This made me think about our bathtub analogy for the relationship between prevalence, incidence, and average disease duration.
+- We can think of the water level as the dating pool. Entry into that pool (incidence) might be due to avoidant-attachers leaving their current relationships (through avoidance) and re-entering the dating pool.
+- Drainage from the pool might be enriched for secure-attachers who find relationships and stick with them, thus leaving the dating pool for a long time (or forever).
+
+
+

@@ -63,6 +63,48 @@
     "text": "After this lesson, you should be able to:\n\nDescribe the difference between prevalence and incidence in terms of the concepts of disease risk and disease burden.\nEvaluate whether information on prevalence or incidence is more relevant to a particular public health question.\nCompute prevalence, cumulative incidence, and incidence rate from appropriate data.\nDescribe how the prevalence of a disease is affected by incidence and typical duration of disease."
   },
   {
+    "objectID": "02-measuring-disease.html#burden-vs.-risk",
+    "href": "02-measuring-disease.html#burden-vs.-risk",
+    "title": "Measuring disease",
+    "section": "Burden vs. risk",
+    "text": "Burden vs. risk\nCentral question: how “common” is a given disease?\nThinking about the word “common” involves contrasting the notions of disease risk and burden.\n\nRisk: How likely is it for an individual to develop this disease within a given time span?\n\nConcerned with new disease cases\nMeasured with incidence (cumulative incidence and incidence rate)\n\nBurden: How much of the population is living with the disease now?\n\nConcerned with existing disease cases\nMeasured with prevalence"
+  },
+  {
+    "objectID": "02-measuring-disease.html#being-careful-about-denominators",
+    "href": "02-measuring-disease.html#being-careful-about-denominators",
+    "title": "Measuring disease",
+    "section": "Being careful about denominators",
+    "text": "Being careful about denominators\nWith prevalence and incidence measures, we need to be very careful about denominators. Everyone represented by the denominator must be capable of being counted in the numerator–otherwise, the measure gives a distorted view of how “common” the disease is."
+  },
+  {
+    "objectID": "02-measuring-disease.html#prevalence",
+    "href": "02-measuring-disease.html#prevalence",
+    "title": "Measuring disease",
+    "section": "Prevalence",
+    "text": "Prevalence\nPrevalence=# cases at a given time# who COULD be a case at a given time\n\\text{Prevalence} = \\frac{\\text{# cases at a given time}}{\\text{# who COULD be a case at a given time}}\n\n\n\n\n\n\n\nExample\n\n\n\nIn a recent survey of 1000 people, 11 report having asthma. The estimated prevalence of asthma would be 11/1000 = 0.011 or 1.1%.\nInterpretation: An estimated 1.1% of people are living with asthma right now.\n\n\nQuestion: Suppose we are trying to estimate the prevalence of COVID at Macalester on January 1, 2024. Do you think that “total # of employees hired and students enrolled on Jan 1” is a good denominator? Explain.\n\n\nResponse\n\nIf the goal of estimating the COVID prevalence on that date is to inform immediate campus policy regarding public health measures, the most useful denominator should probably consist of people who are actually using campus. Students who will be on vacation for a while and students who are studying abroad should not be counted in the denominator. Similarly for employees who do not work during January."
+  },
+  {
+    "objectID": "02-measuring-disease.html#cumulative-incidence",
+    "href": "02-measuring-disease.html#cumulative-incidence",
+    "title": "Measuring disease",
+    "section": "Cumulative incidence",
+    "text": "Cumulative incidence\nCumulative incidence=# NEW cases that develop over a time span# who COULD be a case in that time span\n\\text{Cumulative incidence} = \\frac{\\text{# NEW cases that develop over a time span}}{\\text{# who COULD be a case in that time span}}\n\n\n\n\n\n\n\nExample\n\n\n\nA study followed 1000 children fully for the first 5 years of their lives. 12 develop asthma within that time. The estimated cumulative incidence would be 12/1000 = 0.012 or 1.2%.\nInterpretation: We estimate that 1.2% of children will develop asthma in the first 5 years of life."
+  },
+  {
+    "objectID": "02-measuring-disease.html#incidence-rate",
+    "href": "02-measuring-disease.html#incidence-rate",
+    "title": "Measuring disease",
+    "section": "Incidence rate",
+    "text": "Incidence rate\nIncidence rate=# NEW cases that develop over a time spanTotal person-years at risk\n\\text{Incidence rate} = \\frac{\\text{# NEW cases that develop over a time span}}{\\text{Total person-years at risk}}\n\n\nIf individuals in a study are followed up for different lengths of time, it is better to use the incidence rate rather than cumulative incidence so that the total time that individuals were followed up is more accurately represented.\n\nWhy? A study follows 1000 people for 5 years, but most individuals stop participating in the study by year 2. We’re really not observing the 1000 people for the full 5 years. There’s quite a lot of time in those 5 years that we’re not observing people who may develop disease. Using cumulative incidence would understate the risk of the disease.\n\n\n\n\n\n\n\n\nExample\n\n\n\nA study followed 1000 children for the first 5 years of their lives for a total of 2500 person-years of follow up. 12 develop asthma within that time. The estimated incidence rate would be 12/2500 = 0.0048 cases per person-year.\nInterpretation: We estimate that 0.0048 new cases of asthma in children per person-year. Because 1/0.0048 = 208.33, we could also phrase this as 1 case per 208.33 person-years."
+  },
+  {
+    "objectID": "02-measuring-disease.html#relationship-between-prevalence-and-incidence",
+    "href": "02-measuring-disease.html#relationship-between-prevalence-and-incidence",
+    "title": "Measuring disease",
+    "section": "Relationship between prevalence and incidence",
+    "text": "Relationship between prevalence and incidence\nFor conditions that are not very common (low prevalence):\nPrevalence≈Incidence×Mean disease duration\n\\text{Prevalence} \\approx \\text{Incidence} \\times \\text{Mean disease duration}\n\nWhy is this approximate relationship important?\n\nLow prevalence doesn’t necessarily mean low risk.\nExample: Males have a higher melanoma incidence, but males survive a shorter amount of time (see here and here) with it than females. Females might have a higher prevalence of melanoma than males even though their risk is lower."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "STAT 125: Epidemiology (Spring 2024)",
@@ -229,47 +271,5 @@
     "title": "Syllabus",
     "section": "Artificial intelligence (AI) use",
     "text": "Artificial intelligence (AI) use\nAI tools (e.g., ChatGPT, Google Bard) are going to be a part of our future, so while I will not be prohibiting AI usage, I want you to be aware of the limits of AI:\n\nAI does not always generate accurate output. If it gives you a number, fact, or code, assume it is wrong unless you either know the answer or can check in with another source. AI works best for topics you already understand to a sufficient extent.\nIf you provide minimum effort prompts, you will get low quality results. You will need to refine your prompts in order to get good outcomes. This will take work.\nBe thoughtful about when this tool is useful. Don’t use it if it isn’t appropriate for the case or circumstance.\nThe environmental impact of AI should not be ignored. The building and usage of AI tools consumes a lot of energy (see here and here). For this reason, we will be very thoughtful about when we use AI and will discuss other sustainability behaviors that we can incorporate into our lives to offset this usage.\nAI is a tool, but one that you need to acknowledge using. Any ideas, language, or code that is produced by AI must be cited, just like any other resource.\n\nHow to cite AI: Please include a paragraph at the end of any assignment that uses AI explaining what you used the AI for and what prompts you used to get the results. Failure to do so is in violation of the academic integrity policy at Macalester College.\n\n\nIf you have any questions about your use of AI tools, please contact me to discuss them."
-  },
-  {
-    "objectID": "02-measuring-disease.html#burden-vs.-risk",
-    "href": "02-measuring-disease.html#burden-vs.-risk",
-    "title": "Measuring disease",
-    "section": "Burden vs. risk",
-    "text": "Burden vs. risk\nCentral question: how “common” is a given disease?\nThinking about the word “common” involves contrasting the notions of disease risk and burden.\n\nRisk: How likely is it for an individual to develop this disease within a given time span?\n\nConcerned with new disease cases\nMeasured with incidence (cumulative incidence and incidence rate)\n\nBurden: How much of the population is living with the disease now?\n\nConcerned with existing disease cases\nMeasured with prevalence"
-  },
-  {
-    "objectID": "02-measuring-disease.html#being-careful-about-denominators",
-    "href": "02-measuring-disease.html#being-careful-about-denominators",
-    "title": "Measuring disease",
-    "section": "Being careful about denominators",
-    "text": "Being careful about denominators\nWith prevalence and incidence measures, we need to be very careful about denominators. Everyone represented by the denominator must be capable of being counted in the numerator–otherwise, the measure gives a distorted view of how “common” the disease is."
-  },
-  {
-    "objectID": "02-measuring-disease.html#prevalence",
-    "href": "02-measuring-disease.html#prevalence",
-    "title": "Measuring disease",
-    "section": "Prevalence",
-    "text": "Prevalence\nPrevalence=# cases at a given time# who COULD be a case at a given time\n\\text{Prevalence} = \\frac{\\text{# cases at a given time}}{\\text{# who COULD be a case at a given time}}\n\n\n\n\n\n\n\nExample\n\n\n\nIn a recent survey of 1000 people, 11 report having asthma. The estimated prevalence of asthma would be 11/1000 = 0.011 or 1.1%.\nInterpretation: An estimated 1.1% of people are living with asthma right now.\n\n\nQuestion: Suppose we are trying to estimate the prevalence of COVID at Macalester on January 1, 2024. Do you think that “total # of employees hired and students enrolled on Jan 1” is a good denominator? Explain.\n\n\nResponse\n\nIf the goal of estimating the COVID prevalence on that date is to inform immediate campus policy regarding public health measures, the most useful denominator should probably consist of people who are actually using campus. Students who will be on vacation for a while and students who are studying abroad should not be counted in the denominator. Similarly for employees who do not work during January."
-  },
-  {
-    "objectID": "02-measuring-disease.html#cumulative-incidence",
-    "href": "02-measuring-disease.html#cumulative-incidence",
-    "title": "Measuring disease",
-    "section": "Cumulative incidence",
-    "text": "Cumulative incidence\nCumulative incidence=# NEW cases that develop over a time span# who COULD be a case in that time span\n\\text{Cumulative incidence} = \\frac{\\text{# NEW cases that develop over a time span}}{\\text{# who COULD be a case in that time span}}\n\n\n\n\n\n\n\nExample\n\n\n\nA study followed 1000 children fully for the first 5 years of their lives. 12 develop asthma within that time. The estimated cumulative incidence would be 12/1000 = 0.012 or 1.2%.\nInterpretation: We estimate that 1.2% of children will develop asthma in the first 5 years of life."
-  },
-  {
-    "objectID": "02-measuring-disease.html#incidence-rate",
-    "href": "02-measuring-disease.html#incidence-rate",
-    "title": "Measuring disease",
-    "section": "Incidence rate",
-    "text": "Incidence rate\nIncidence rate=# NEW cases that develop over a time spanTotal person-years at risk\n\\text{Incidence rate} = \\frac{\\text{# NEW cases that develop over a time span}}{\\text{Total person-years at risk}}\n\n\nIf individuals in a study are followed up for different lengths of time, it is better to use the incidence rate rather than cumulative incidence so that the total time that individuals were followed up is more accurately represented.\n\nWhy? A study follows 1000 people for 5 years, but most individuals stop participating in the study by year 2. We’re really not observing the 1000 people for the full 5 years. There’s quite a lot of time in those 5 years that we’re not observing people who may develop disease. Using cumulative incidence would understate the risk of the disease.\n\n\n\n\n\n\n\n\nExample\n\n\n\nA study followed 1000 children for the first 5 years of their lives for a total of 2500 person-years of follow up. 12 develop asthma within that time. The estimated incidence rate would be 12/2500 = 0.0048 cases per person-year.\nInterpretation: We estimate that 0.0048 new cases of asthma in children per person-year. Because 1/0.0048 = 208.33, we could also phrase this as 1 case per 208.33 person-years."
-  },
-  {
-    "objectID": "02-measuring-disease.html#relationship-between-prevalence-and-incidence",
-    "href": "02-measuring-disease.html#relationship-between-prevalence-and-incidence",
-    "title": "Measuring disease",
-    "section": "Relationship between prevalence and incidence",
-    "text": "Relationship between prevalence and incidence\nFor conditions that are not very common (low prevalence):\nPrevalence≈Incidence×Mean disease duration\n\\text{Prevalence} \\approx \\text{Incidence} \\times \\text{Mean disease duration}\n\nWhy is this approximate relationship important?\n\nLow prevalence doesn’t necessarily mean low risk.\nExample: Males have a higher melanoma incidence, but males survive a shorter amount of time (see here and here) with it than females. Females might have a higher prevalence of melanoma than males even though their risk is lower."
   }
 ]
