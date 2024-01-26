@@ -5,9 +5,9 @@ sidebar: false
 
 # What is this course about?
 
-If you've ever thought about your health and wellbeing, this course will be relevant to you. 
+If you've ever thought about your health and well-being, this course will be relevant to you. 
 
-Fundamentally, epidemiology is the study of human thriving and suffering---most generally investigated in the context of disease. We will take a quantitative lens to 
+Fundamentally, epidemiology is the study of human thriving and suffering---most generally investigated in the context of disease. We will use a **quantitative lens** in this pursuit.
 
 ::: {.callout-note collapse="false" title="Course catalog description"}
 Epidemiology is the study of the distribution and determinants of disease and health in human populations and the application of this understanding to the solution of public health problems. Topics include measurement of disease and health, study designs for assessing associations, reasoning about causality, handling uncertainty in data, disease screening, and biases that affect data quality. The course is designed to fulfill and extend the professional community's consensus definition of undergraduate epidemiology and is a required component of the concentration in Community and Global Health.
