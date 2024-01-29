@@ -271,5 +271,12 @@
     "title": "Syllabus",
     "section": "Artificial intelligence (AI) use",
     "text": "Artificial intelligence (AI) use\nAI tools (e.g., ChatGPT, Google Bard) are going to be a part of our future, so while I will not be prohibiting AI usage, I want you to be aware of the limits of AI:\n\nAI does not always generate accurate output. If it gives you a number, fact, or code, assume it is wrong unless you either know the answer or can check in with another source. AI works best for topics you already understand to a sufficient extent.\nIf you provide minimum effort prompts, you will get low quality results. You will need to refine your prompts in order to get good outcomes. This will take work.\nBe thoughtful about when this tool is useful. Don’t use it if it isn’t appropriate for the case or circumstance.\nThe environmental impact of AI should not be ignored. The building and usage of AI tools consumes a lot of energy (see here and here). For this reason, we will be very thoughtful about when we use AI and will discuss other sustainability behaviors that we can incorporate into our lives to offset this usage.\nAI is a tool, but one that you need to acknowledge using. Any ideas, language, or code that is produced by AI must be cited, just like any other resource.\n\nHow to cite AI: Please include a paragraph at the end of any assignment that uses AI explaining what you used the AI for and what prompts you used to get the results. Failure to do so is in violation of the academic integrity policy at Macalester College.\n\n\nIf you have any questions about your use of AI tools, please contact me to discuss them."
+  },
+  {
+    "objectID": "schedule.html#measuring-disease-mortality",
+    "href": "schedule.html#measuring-disease-mortality",
+    "title": "Schedule",
+    "section": "Measuring disease: mortality",
+    "text": "Measuring disease: mortality\n\nExplain the difference between a mortality rate and a case-fatality rate.\nIf proportionate mortality due to a disease increases from one year to the next, does that mean that risk of death from that disease has increased? Why or why not?\nWhy could it be misleading to compare crude mortality rates between populations?\nDescribe the rationale behind the direct standardization technique."
   }
 ]
