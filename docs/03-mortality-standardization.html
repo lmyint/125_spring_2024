@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>STAT 125 - Measuring disease</title>
+<title>STAT 125 - Measuring mortality, standardization</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -132,17 +132,8 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#learning-goals" id="toc-learning-goals" class="nav-link active" data-scroll-target="#learning-goals">Learning goals</a></li>
-  <li><a href="#review-of-video-material" id="toc-review-of-video-material" class="nav-link" data-scroll-target="#review-of-video-material">Review of video material</a>
-  <ul class="collapse">
-  <li><a href="#burden-vs.-risk" id="toc-burden-vs.-risk" class="nav-link" data-scroll-target="#burden-vs.-risk">Burden vs.&nbsp;risk</a></li>
-  <li><a href="#being-careful-about-denominators" id="toc-being-careful-about-denominators" class="nav-link" data-scroll-target="#being-careful-about-denominators">Being careful about denominators</a></li>
-  <li><a href="#prevalence" id="toc-prevalence" class="nav-link" data-scroll-target="#prevalence">Prevalence</a></li>
-  <li><a href="#cumulative-incidence" id="toc-cumulative-incidence" class="nav-link" data-scroll-target="#cumulative-incidence">Cumulative incidence</a></li>
-  <li><a href="#incidence-rate" id="toc-incidence-rate" class="nav-link" data-scroll-target="#incidence-rate">Incidence rate</a></li>
-  <li><a href="#relationship-between-prevalence-and-incidence" id="toc-relationship-between-prevalence-and-incidence" class="nav-link" data-scroll-target="#relationship-between-prevalence-and-incidence">Relationship between prevalence and incidence</a></li>
-  </ul></li>
-  <li><a href="#activity" id="toc-activity" class="nav-link" data-scroll-target="#activity">Activity</a></li>
-  <li><a href="#broader-application-of-these-ideas" id="toc-broader-application-of-these-ideas" class="nav-link" data-scroll-target="#broader-application-of-these-ideas">Broader application of these ideas</a></li>
+  <li><a href="#our-ideas-in-practice" id="toc-our-ideas-in-practice" class="nav-link" data-scroll-target="#our-ideas-in-practice">Our ideas in practice</a></li>
+  <li><a href="#synthesis-activity" id="toc-synthesis-activity" class="nav-link" data-scroll-target="#synthesis-activity">Synthesis activity</a></li>
   </ul>
 </nav>
     </div>
@@ -151,7 +142,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Measuring disease</h1>
+<h1 class="title">Measuring mortality, standardization</h1>
 </div>
 
 
@@ -170,146 +161,48 @@ ul.task-list li input[type="checkbox"] {
 <h1>Learning goals</h1>
 <p>After this lesson, you should be able to:</p>
 <ul>
-<li>Describe the difference between prevalence and incidence in terms of the concepts of disease risk and disease burden.</li>
-<li>Evaluate whether information on prevalence or incidence is more relevant to a particular public health question.</li>
-<li>Compute prevalence, cumulative incidence, and incidence rate from appropriate data.</li>
-<li>Describe how the prevalence of a disease is affected by incidence and typical duration of disease.</li>
+<li>Explain the difference between a mortality rate and a case-fatality rate.</li>
+<li>Explain what proportionate mortality gives a picture of and why it does not represent risk of death due to a disease.</li>
+<li>Explain why it is misleading to compare crude mortality rates.</li>
+<li>Describe the rationale behind the direct standardization technique and use it to compare mortality rates</li>
 </ul>
 <p><br><br><br><br></p>
 </section>
-<section id="review-of-video-material" class="level1">
-<h1>Review of video material</h1>
-<section id="burden-vs.-risk" class="level2">
-<h2 class="anchored" data-anchor-id="burden-vs.-risk">Burden vs.&nbsp;risk</h2>
-<p>Central question: how “common” is a given disease?</p>
-<p>Thinking about the word “common” involves contrasting the notions of disease <strong>risk</strong> and <strong>burden</strong>.</p>
+<section id="our-ideas-in-practice" class="level1">
+<h1>Our ideas in practice</h1>
+<p>The World Health Organization provides information on age-adjusted (age-standardized) mortality rates due to non-communicable diseases (NCDs)—see <a href="https://www.who.int/data/gho/data/indicators/indicator-details/GHO/gho-ghe-ncd-mortality-rate">here</a>.</p>
 <ul>
-<li><strong>Risk:</strong> How likely is it for an individual to develop this disease within a given time span?
-<ul>
-<li>Concerned with <em>new</em> disease cases</li>
-<li>Measured with <strong>incidence</strong> (cumulative incidence and incidence rate)</li>
-</ul></li>
-<li><strong>Burden:</strong> How much of the population is living with the disease now?
-<ul>
-<li>Concerned with <em>existing</em> disease cases</li>
-<li>Measured with <strong>prevalence</strong></li>
-</ul></li>
+<li>They also provide <a href="https://www.who.int/data/gho/indicator-metadata-registry/imr-details/78">information</a> about how these rates were calculated and where the data underlying the calculations come from.</li>
+<li><a href="https://seer.cancer.gov/stdpopulations/world.who.html">This NIH page</a> contains the exact standard population used.</li>
+<li><a href="https://www.researchgate.net/publication/284696312_Age_Standardization_of_Rates_A_New_WHO_Standard">This paper</a> provides detailed discussion about the WHO’s choice of standard population.</li>
 </ul>
-</section>
-<section id="being-careful-about-denominators" class="level2">
-<h2 class="anchored" data-anchor-id="being-careful-about-denominators">Being careful about denominators</h2>
-<p>With prevalence and incidence measures, we need to be very careful about denominators. Everyone represented by the denominator must be capable of being counted in the numerator–otherwise, the measure gives a distorted view of how “common” the disease is.</p>
-</section>
-<section id="prevalence" class="level2">
-<h2 class="anchored" data-anchor-id="prevalence">Prevalence</h2>
-<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext mathvariant="normal">Prevalence</mtext><mo>=</mo><mfrac><mtext mathvariant="normal"># cases at a given time</mtext><mtext mathvariant="normal"># who COULD be a case at a given time</mtext></mfrac></mrow><annotation encoding="application/x-tex">
-\text{Prevalence} = \frac{\text{# cases at a given time}}{\text{# who COULD be a case at a given time}}
-</annotation></semantics></math></p>
-<div class="callout callout-style-default callout-tip callout-titled" title="Example">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Example
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>In a recent survey of 1000 people, 11 report having asthma. The estimated prevalence of asthma would be 11/1000 = 0.011 or 1.1%.</p>
-<p><strong>Interpretation:</strong> An estimated 1.1% of people are living with asthma right now.</p>
-</div>
-</div>
-<p><strong>Question:</strong> Suppose we are trying to estimate the prevalence of COVID at Macalester on January 1, 2024. Do you think that “total # of employees hired and students enrolled on Jan 1” is a good denominator? Explain.</p>
-<details>
-<summary>
-Response
-</summary>
-<p>If the goal of estimating the COVID prevalence on that date is to inform immediate campus policy regarding public health measures, the most useful denominator should probably consist of people who are actually using campus. Students who will be on vacation for a while and students who are studying abroad should not be counted in the denominator. Similarly for employees who do not work during January.</p>
-</details>
-</section>
-<section id="cumulative-incidence" class="level2">
-<h2 class="anchored" data-anchor-id="cumulative-incidence">Cumulative incidence</h2>
-<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext mathvariant="normal">Cumulative incidence</mtext><mo>=</mo><mfrac><mtext mathvariant="normal"># NEW cases that develop over a time span</mtext><mtext mathvariant="normal"># who COULD be a case in that time span</mtext></mfrac></mrow><annotation encoding="application/x-tex">
-\text{Cumulative incidence} = \frac{\text{# NEW cases that develop over a time span}}{\text{# who COULD be a case in that time span}}
-</annotation></semantics></math></p>
-<div class="callout callout-style-default callout-tip callout-titled" title="Example">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Example
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>A study followed 1000 children fully for the first 5 years of their lives. 12 develop asthma within that time. The estimated cumulative incidence would be 12/1000 = 0.012 or 1.2%.</p>
-<p><strong>Interpretation:</strong> We estimate that 1.2% of children will develop asthma in the first 5 years of life.</p>
-</div>
-</div>
-</section>
-<section id="incidence-rate" class="level2">
-<h2 class="anchored" data-anchor-id="incidence-rate">Incidence rate</h2>
-<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext mathvariant="normal">Incidence rate</mtext><mo>=</mo><mfrac><mtext mathvariant="normal"># NEW cases that develop over a time span</mtext><mtext mathvariant="normal">Total person-years at risk</mtext></mfrac></mrow><annotation encoding="application/x-tex">
-\text{Incidence rate} = \frac{\text{# NEW cases that develop over a time span}}{\text{Total person-years at risk}}
-</annotation></semantics></math></p>
-<ul>
-<li>If individuals in a study are followed up for different lengths of time, it is better to use the incidence rate rather than cumulative incidence so that the total time that individuals were followed up is more accurately represented.
-<ul>
-<li>Why? A study follows 1000 people for 5 years, but most individuals stop participating in the study by year 2. We’re really not observing the 1000 people for the full 5 years. There’s quite a lot of time in those 5 years that we’re not observing people who may develop disease. Using cumulative incidence would <strong>understate</strong> the risk of the disease.</li>
-</ul></li>
-</ul>
-<div class="callout callout-style-default callout-tip callout-titled" title="Example">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Example
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>A study followed 1000 children for the first 5 years of their lives for a total of 2500 person-years of follow up. 12 develop asthma within that time. The estimated incidence rate would be 12/2500 = 0.0048 cases per person-year.</p>
-<p><strong>Interpretation:</strong> We estimate that 0.0048 new cases of asthma in children per person-year. Because 1/0.0048 = 208.33, we could also phrase this as 1 case per 208.33 person-years.</p>
-</div>
-</div>
 <p><br></p>
-</section>
-<section id="relationship-between-prevalence-and-incidence" class="level2">
-<h2 class="anchored" data-anchor-id="relationship-between-prevalence-and-incidence">Relationship between prevalence and incidence</h2>
-<p>For conditions that are not very common (low prevalence):</p>
-<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext mathvariant="normal">Prevalence</mtext><mo>≈</mo><mtext mathvariant="normal">Incidence</mtext><mo>×</mo><mtext mathvariant="normal">Mean disease duration</mtext></mrow><annotation encoding="application/x-tex">
-\text{Prevalence} \approx \text{Incidence} \times \text{Mean disease duration}
-</annotation></semantics></math></p>
-<p>Why is this approximate relationship important?</p>
-<ul>
-<li>Low prevalence doesn’t necessarily mean low risk.</li>
-<li>Example: Males have a <a href="https://www.cdc.gov/cancer/uscs/about/data-briefs/no9-melanoma-incidence-mortality-UnitedStates-2012-2016.htm">higher melanoma incidence</a>, but males survive a shorter amount of time (see <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1570554/">here</a> and <a href="https://pubmed.ncbi.nlm.nih.gov/21150923/">here</a>) with it than females. Females might have a higher <em>prevalence</em> of melanoma than males even though their <em>risk</em> is lower.</li>
-</ul>
-<p><br><br><br><br></p>
-</section>
-</section>
-<section id="activity" class="level1">
-<h1>Activity</h1>
-<p>Navigate to <a href="https://moodle.macalester.edu/mod/folder/view.php?id=82197">Moodle</a>, and open the PDF titled <code>02_measuring_disease_activity</code>.</p>
-<p><br><br><br><br></p>
-</section>
-<section id="broader-application-of-these-ideas" class="level1">
-<h1>Broader application of these ideas</h1>
-<p>I’m currently reading <em>Attached</em> by Amir Levine and Rachel Heller. This is a book about adult attachment theory in romantic relationships, and while it seems to be far removed from epidemiology, I found myself thinking about ideas from class this week when reading the early chapters.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://m.media-amazon.com/images/I/71kpAWQz7EL._AC_UF1000,1000_QL80_.jpg" class="img-fluid figure-img" width="300"></p>
+<p><img src="https://w3.unece.org/SDG/Resources/Images/Goals/3_en_i.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
-<blockquote class="blockquote">
-<p>Adult attachment designates three main “attachment styles” or manners in which people perceive and respond to intimacy in romantic relationships, which parallel those found in children: Secure, Anxious, and Avoidant. Basically, <em>secure</em> people fell comfortable with intimacy and are usually warm and loving; <em>anxious</em> people crave intimacy, are often preoccupied with their relationships, and tend to worry about their partner’s ability to love them back; and <em>avoidant</em> people equate intimacy with a loss of independence and constantly seek to minimize closeness. … All people in our society, whether they have just started dating someone or have been married for forty years, fall into one of these categories, or, more rarely, into a combination of the latter two (anxious and avoidant). Just over 50% are secure, around 20% are anxious, 25% are avoidant, and the remaining 3-5% fall into the fourth, less common category (combination of anvious and avoidant). <em>Attached</em>, pages 8-9</p>
-</blockquote>
-<p>These percentages are definitely prevalences, but I wondered about them because another part of the book discusses how people can change their attachment style. I wondered about what population these percentages are actually a snapshot of and whether (through this book!?) those percentages might likely change.</p>
-<p>My partner also floated the claim that the dating pool might actually be enriched for people with avoidant attachment styles. (He claimed that whatever the prevalence of the avoidant style in the general population, they form a greater percentage in the pool of people who are currently dating.)</p>
+<p>One of the United Nations’ <a href="https://w3.unece.org/SDG/en">Sustainable Development Goals</a>, is <strong>Good Health and Well-Being</strong> which is described as “Ensure healthy lives and promote well-being for all at all ages”. One of the metrics used to evaluate progress towards this goal is <a href="https://w3.unece.org/SDG/en/Indicator?id=96">Age-standardized mortality rate attributed to household and ambient air pollution</a>.</p>
+<p>https://www.cdc.gov/nchs/products/databriefs/db456.htm</p>
+</section>
+<section id="synthesis-activity" class="level1">
+<h1>Synthesis activity</h1>
+<p>The following prompt is meant to resemble one that could be used for our first <a href="./syllabus.html#content-conversations">Content Conversation</a>. It is meant to encourage thinking about how our ideas are used in practice and to reinforce conceptual understanding underlying the practice problems we do in our activities.</p>
+<p><strong>Prompt:</strong> A community health organization wants to determine whether to devote more resources to addressing mental health issues or cardiovascular health issues. You’ll help them approach this decision through the lens of our course topics so far.</p>
 <ul>
-<li>This made me think about our bathtub analogy for the relationship between prevalence, incidence, and average disease duration.</li>
-<li>We can think of the water level as the dating pool. Entry into that pool (incidence) might be due to avoidant-attachers leaving their current relationships (through avoidance) and re-entering the dating pool.</li>
-<li>Drainage from the pool might be enriched for secure-attachers who find relationships and stick with them, thus leaving the dating pool for a long time (or forever).</li>
+<li>Would prevalence data be useful in this decision making? What about incidence data? How would this data be used in the decision making process?</li>
+<li>How would you go about collecting prevalence and/or incidence data within the communities served by the community health organization? If you collect incidence data, will you likely summarize that data with cumulative incidence or incidence rate? What problems do you foresee in collecting accurate data?</li>
+<li>Suppose that the community health organization wants to implement changes to their mental health resources and look at the incidence of mental health issues after this change. They want to compare this to mental health incidence data from the previous year to evaluate the efficacy of their new resources. How might ideas related to direct standardization be relevant here?</li>
+</ul>
+<p><br></p>
+<p><strong>Directions:</strong> Take 10 minutes to outline some ideas for addressing this prompt on your own. Afterwards, share ideas with your group.</p>
+<p><br></p>
+<p><strong>A good response should:</strong></p>
+<ul>
+<li>Show understanding of the difference between prevalence and incidence</li>
+<li>Present feasible means of collecting prevalence/incidence data and acknowledge the limitations of that data collection process</li>
+<li>Show understanding of the difference between cumulative incidence and incidence rate</li>
+<li>Show understanding of how direct standardization relates to the goal of making fair comparisons</li>
 </ul>
 
 

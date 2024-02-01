@@ -30,11 +30,7 @@ website:
       contents:
         - 01-introductions.qmd
         - 02-measuring-disease.qmd
-  # 
-  #   - id: homework
-  #     title: "Homework"
-  #     contents:
-  #       - homework1.qmd
+        - 03-mortality-standardization.qmd
   
   page-footer:
     left: |

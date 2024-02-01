@@ -105,6 +105,20 @@
     "text": "Relationship between prevalence and incidence\nFor conditions that are not very common (low prevalence):\nPrevalence≈Incidence×Mean disease duration\n\\text{Prevalence} \\approx \\text{Incidence} \\times \\text{Mean disease duration}\n\nWhy is this approximate relationship important?\n\nLow prevalence doesn’t necessarily mean low risk.\nExample: Males have a higher melanoma incidence, but males survive a shorter amount of time (see here and here) with it than females. Females might have a higher prevalence of melanoma than males even though their risk is lower."
   },
   {
+    "objectID": "03-mortality-standardization.html",
+    "href": "03-mortality-standardization.html",
+    "title": "Measuring mortality, standardization",
+    "section": "",
+    "text": "Learning goals\nAfter this lesson, you should be able to:\n\nExplain the difference between a mortality rate and a case-fatality rate.\nExplain what proportionate mortality gives a picture of and why it does not represent risk of death due to a disease.\nExplain why it is misleading to compare crude mortality rates.\nDescribe the rationale behind the direct standardization technique and use it to compare mortality rates\n\n\n\n\nOur ideas in practice\nThe World Health Organization provides information on age-adjusted (age-standardized) mortality rates due to non-communicable diseases (NCDs)—see here.\n\nThey also provide information about how these rates were calculated and where the data underlying the calculations come from.\nThis NIH page contains the exact standard population used.\nThis paper provides detailed discussion about the WHO’s choice of standard population.\n\n\n\n\n\n\n\nOne of the United Nations’ Sustainable Development Goals, is Good Health and Well-Being which is described as “Ensure healthy lives and promote well-being for all at all ages”. One of the metrics used to evaluate progress towards this goal is Age-standardized mortality rate attributed to household and ambient air pollution.\nhttps://www.cdc.gov/nchs/products/databriefs/db456.htm\n\n\nSynthesis activity\nThe following prompt is meant to resemble one that could be used for our first Content Conversation. It is meant to encourage thinking about how our ideas are used in practice and to reinforce conceptual understanding underlying the practice problems we do in our activities.\nPrompt: A community health organization wants to determine whether to devote more resources to addressing mental health issues or cardiovascular health issues. You’ll help them approach this decision through the lens of our course topics so far.\n\nWould prevalence data be useful in this decision making? What about incidence data? How would this data be used in the decision making process?\nHow would you go about collecting prevalence and/or incidence data within the communities served by the community health organization? If you collect incidence data, will you likely summarize that data with cumulative incidence or incidence rate? What problems do you foresee in collecting accurate data?\nSuppose that the community health organization wants to implement changes to their mental health resources and look at the incidence of mental health issues after this change. They want to compare this to mental health incidence data from the previous year to evaluate the efficacy of their new resources. How might ideas related to direct standardization be relevant here?\n\n\nDirections: Take 10 minutes to outline some ideas for addressing this prompt on your own. Afterwards, share ideas with your group.\n\nA good response should:\n\nShow understanding of the difference between prevalence and incidence\nPresent feasible means of collecting prevalence/incidence data and acknowledge the limitations of that data collection process\nShow understanding of the difference between cumulative incidence and incidence rate\nShow understanding of how direct standardization relates to the goal of making fair comparisons"
+  },
+  {
+    "objectID": "04-life-exp-survival.html",
+    "href": "04-life-exp-survival.html",
+    "title": "Life expectancy, survival",
+    "section": "",
+    "text": "Learning goals\nAfter this lesson, you should be able to:\n\n\n\nLinks\nhttps://www.who.int/data/gho/data/themes/mortality-and-global-health-estimates\n\n\n\nActivity\nNavigate to Moodle, and open the PDF titled ``."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "STAT 125: Epidemiology (Spring 2024)",
@@ -159,6 +173,13 @@
     "title": "Schedule",
     "section": "Measuring disease: morbidity",
     "text": "Measuring disease: morbidity\n\nWhat is the difference between a rate and a proportion?\nWhat is the difference between disease risk and burden?\nWhy is prevalence not a measure of the risk for getting disease?\nWhat is the difference between prevalence and incidence?\nDescribe how the prevalence of a disease is affected by incidence and typical duration of disease."
+  },
+  {
+    "objectID": "schedule.html#measuring-disease-mortality",
+    "href": "schedule.html#measuring-disease-mortality",
+    "title": "Schedule",
+    "section": "Measuring disease: mortality",
+    "text": "Measuring disease: mortality\n\nExplain the difference between a mortality rate and a case-fatality rate.\nIf proportionate mortality due to a disease increases from one year to the next, does that mean that risk of death from that disease has increased? Why or why not?\nWhy could it be misleading to compare crude mortality rates between populations?\nDescribe the rationale behind the direct standardization technique."
   },
   {
     "objectID": "syllabus.html",
@@ -271,12 +292,5 @@
     "title": "Syllabus",
     "section": "Artificial intelligence (AI) use",
     "text": "Artificial intelligence (AI) use\nAI tools (e.g., ChatGPT, Google Bard) are going to be a part of our future, so while I will not be prohibiting AI usage, I want you to be aware of the limits of AI:\n\nAI does not always generate accurate output. If it gives you a number, fact, or code, assume it is wrong unless you either know the answer or can check in with another source. AI works best for topics you already understand to a sufficient extent.\nIf you provide minimum effort prompts, you will get low quality results. You will need to refine your prompts in order to get good outcomes. This will take work.\nBe thoughtful about when this tool is useful. Don’t use it if it isn’t appropriate for the case or circumstance.\nThe environmental impact of AI should not be ignored. The building and usage of AI tools consumes a lot of energy (see here and here). For this reason, we will be very thoughtful about when we use AI and will discuss other sustainability behaviors that we can incorporate into our lives to offset this usage.\nAI is a tool, but one that you need to acknowledge using. Any ideas, language, or code that is produced by AI must be cited, just like any other resource.\n\nHow to cite AI: Please include a paragraph at the end of any assignment that uses AI explaining what you used the AI for and what prompts you used to get the results. Failure to do so is in violation of the academic integrity policy at Macalester College.\n\n\nIf you have any questions about your use of AI tools, please contact me to discuss them."
-  },
-  {
-    "objectID": "schedule.html#measuring-disease-mortality",
-    "href": "schedule.html#measuring-disease-mortality",
-    "title": "Schedule",
-    "section": "Measuring disease: mortality",
-    "text": "Measuring disease: mortality\n\nExplain the difference between a mortality rate and a case-fatality rate.\nIf proportionate mortality due to a disease increases from one year to the next, does that mean that risk of death from that disease has increased? Why or why not?\nWhy could it be misleading to compare crude mortality rates between populations?\nDescribe the rationale behind the direct standardization technique."
   }
 ]

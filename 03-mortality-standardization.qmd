@@ -1,0 +1,61 @@
+---
+title: "Measuring mortality, standardization"
+sidebar: false
+format: html
+html-math-method: mathml
+---
+
+# Learning goals
+
+After this lesson, you should be able to:
+
+- Explain the difference between a mortality rate and a case-fatality rate.
+- Explain what proportionate mortality gives a picture of and why it does not represent risk of death due to a disease.
+- Explain why it is misleading to compare crude mortality rates.
+- Describe the rationale behind the direct standardization technique and use it to compare mortality rates
+
+
+<br><br><br><br>
+
+
+# Our ideas in practice
+
+The World Health Organization provides information on age-adjusted (age-standardized) mortality rates due to non-communicable diseases (NCDs)---see [here](https://www.who.int/data/gho/data/indicators/indicator-details/GHO/gho-ghe-ncd-mortality-rate).
+
+- They also provide [information](https://www.who.int/data/gho/indicator-metadata-registry/imr-details/78) about how these rates were calculated and where the data underlying the calculations come from.
+- [This NIH page](https://seer.cancer.gov/stdpopulations/world.who.html) contains the exact standard population used.
+- [This paper](https://www.researchgate.net/publication/284696312_Age_Standardization_of_Rates_A_New_WHO_Standard) provides detailed discussion about the WHO's choice of standard population.
+
+
+<br>
+
+![](https://w3.unece.org/SDG/Resources/Images/Goals/3_en_i.png){fig-align="center"}
+
+One of the United Nations' [Sustainable Development Goals](https://w3.unece.org/SDG/en), is **Good Health and Well-Being** which is described as "Ensure healthy lives and promote well-being for all at all ages". One of the metrics used to evaluate progress towards this goal is [Age-standardized mortality rate attributed to household and ambient air pollution](https://w3.unece.org/SDG/en/Indicator?id=96).
+
+https://www.cdc.gov/nchs/products/databriefs/db456.htm
+
+
+# Synthesis activity
+
+The following prompt is meant to resemble one that could be used for our first [Content Conversation](syllabus.qmd#content-conversations). It is meant to encourage thinking about how our ideas are used in practice and to reinforce conceptual understanding underlying the practice problems we do in our activities.
+
+**Prompt:** A community health organization wants to determine whether to devote more resources to addressing mental health issues or cardiovascular health issues. You'll help them approach this decision through the lens of our course topics so far.
+
+- Would prevalence data be useful in this decision making? What about incidence data? How would this data be used in the decision making process?
+- How would you go about collecting prevalence and/or incidence data within the communities served by the community health organization? If you collect incidence data, will you likely summarize that data with cumulative incidence or incidence rate? What problems do you foresee in collecting accurate data?
+- Suppose that the community health organization wants to implement changes to their mental health resources and look at the incidence of mental health issues after this change. They want to compare this to mental health incidence data from the previous year to evaluate the efficacy of their new resources. How might ideas related to direct standardization be relevant here?
+
+<br>
+
+**Directions:** Take 10 minutes to outline some ideas for addressing this prompt on your own. Afterwards, share ideas with your group.
+
+<br>
+
+**A good response should:**
+
+- Show understanding of the difference between prevalence and incidence
+- Present feasible means of collecting prevalence/incidence data and acknowledge the limitations of that data collection process
+- Show understanding of the difference between cumulative incidence and incidence rate
+- Show understanding of how direct standardization relates to the goal of making fair comparisons
+
