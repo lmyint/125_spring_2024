@@ -31,6 +31,8 @@ website:
         - 01-introductions.qmd
         - 02-measuring-disease.qmd
         - 03-mortality-standardization.qmd
+        - 04-life-exp.qmd
+        - mini-project1.qmd
   
   page-footer:
     left: |

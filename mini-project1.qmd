@@ -1,0 +1,24 @@
+---
+title: "Mini-project 1"
+sidebar: false
+format: html
+html-math-method: mathml
+---
+
+# Activity
+
+**Purpose:** Come up with pictures/diagrams to explain concepts from our measurement unit. I hope that this helps solidify your understanding by representing the information in a different way. You are effectively developing a graphical reference sheet.
+
+**Task:** Work with your groups using whatever drawing tools you wish. Develop pictures and diagrams to graphically show the following. The goal is to use as little text as possible.
+
+- Difference between prevalence, cumulative incidence, and incidence rate
+- How to determine the number of person-years of healthy follow up
+- Direct standardization
+    - The big picture idea behind why we use this method
+    - The rationale between the direct standardization calculation
+- The rationale behind the life expectancy calculation
+
+Put all group members' names at the top of your document. Submit this on [Moodle](https://moodle.macalester.edu/mod/assign/view.php?id=86004) by the end of class.
+
+**Requirements for passing:** Make a good faith effort at all tasks above. This activity will be graded for completion.
+

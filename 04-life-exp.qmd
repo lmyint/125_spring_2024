@@ -1,0 +1,27 @@
+---
+title: "Life expectancy"
+sidebar: false
+format: html
+html-math-method: mathml
+---
+
+# Learning goals
+
+After this lesson, you should be able to:
+
+- Compute life expectancy at birth and mean residual life using age-specific mortality information
+- Explain the rationale behind the life expectancy computations
+- Evaluate the strengths and limitations of DALYs and PYLLs
+
+
+<br><br><br><br>
+
+
+# Activity
+
+Navigate to [Moodle](https://moodle.macalester.edu/mod/folder/view.php?id=85544), and open the PDF titled `04_life_exp_activity`.
+
+<!-- https://www.who.int/data/gho/data/themes/mortality-and-global-health-estimates -->
+
+
+

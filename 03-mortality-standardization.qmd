@@ -18,6 +18,14 @@ After this lesson, you should be able to:
 <br><br><br><br>
 
 
+# Activity
+
+Navigate to [Moodle](https://moodle.macalester.edu/mod/folder/view.php?id=84545), and open the PDF titled `03_mortality_standardization_activity`.
+
+
+<br><br><br><br>
+
+
 # Our ideas in practice
 
 The World Health Organization provides information on age-adjusted (age-standardized) mortality rates due to non-communicable diseases (NCDs)---see [here](https://www.who.int/data/gho/data/indicators/indicator-details/GHO/gho-ghe-ncd-mortality-rate).

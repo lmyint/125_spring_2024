@@ -334,6 +334,7 @@ Videos that I will ask you to watch before class can be found in [this YouTube p
 - What is the difference between prevalence and incidence?
 - Describe how the prevalence of a disease is affected by incidence and typical duration of disease.
 
+<br>
 
 ## Measuring disease: mortality
 
@@ -342,32 +343,42 @@ Videos that I will ask you to watch before class can be found in [this YouTube p
 - Why could it be misleading to compare crude mortality rates between populations?
 - Describe the rationale behind the direct standardization technique.
 
-<!--
+<br>
+
 ## Life expectancy and related measures
 
 - Conceptually, what is the difference between life expectancy at birth and life expectancy at age 60?
 - How does the DALY help measure the impact of diseases that are not necessarily fatal?
+
+<br>
 
 ## Cohort studies
 
 - What is the rationale for how cohort studies help us study the link between exposures and disease outcomes?
 - Briefly describe the difference between measuring the strength of association between exposure and disease versus impact of exposure on disease risk.
 
+<br>
+
 ## Case-control studies
 
 - Why might one prefer to conduct a case-control study over a cohort study?
 - Why do we use the odds ratio as a measure of association in case-control studies, rather than a relative risk?
 
-## Causation
+<br>
+
+## Confounding and causation
 
 - How do we check to see whether a variable confounds the relationship between an exposure and an outcome?
 - Why should we not adjust for mediators in a causal pathway between an exposure and an outcome?
+
+<br>
 
 ## Randomized controlled trials
 
 - How does randomization work to control known and unknown confounding?
 - Why is blinding crucial in a randomized trial?
 
+<!--
 ## Sampling error and confidence intervals
 
 ## Hypothesis testing

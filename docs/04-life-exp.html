@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>STAT 125 - Measuring mortality, standardization</title>
+<title>STAT 125 - Life expectancy</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -141,8 +141,6 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#learning-goals" id="toc-learning-goals" class="nav-link active" data-scroll-target="#learning-goals">Learning goals</a></li>
   <li><a href="#activity" id="toc-activity" class="nav-link" data-scroll-target="#activity">Activity</a></li>
-  <li><a href="#our-ideas-in-practice" id="toc-our-ideas-in-practice" class="nav-link" data-scroll-target="#our-ideas-in-practice">Our ideas in practice</a></li>
-  <li><a href="#synthesis-activity" id="toc-synthesis-activity" class="nav-link" data-scroll-target="#synthesis-activity">Synthesis activity</a></li>
   </ul>
 </nav>
     </div>
@@ -151,7 +149,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Measuring mortality, standardization</h1>
+<h1 class="title">Life expectancy</h1>
 </div>
 
 
@@ -170,64 +168,16 @@ ul.task-list li input[type="checkbox"] {
 <h1>Learning goals</h1>
 <p>After this lesson, you should be able to:</p>
 <ul>
-<li>Explain the difference between a mortality rate and a case-fatality rate.</li>
-<li>Explain what proportionate mortality gives a picture of and why it does not represent risk of death due to a disease.</li>
-<li>Explain why it is misleading to compare crude mortality rates.</li>
-<li>Describe the rationale behind the direct standardization technique and use it to compare mortality rates</li>
+<li>Compute life expectancy at birth and mean residual life using age-specific mortality information</li>
+<li>Explain the rationale behind the life expectancy computations</li>
+<li>Evaluate the strengths and limitations of DALYs and PYLLs</li>
 </ul>
 <p><br><br><br><br></p>
 </section>
 <section id="activity" class="level1">
 <h1>Activity</h1>
-<p>Navigate to <a href="https://moodle.macalester.edu/mod/folder/view.php?id=84545">Moodle</a>, and open the PDF titled <code>03_mortality_standardization_activity</code>.</p>
-<p><br><br><br><br></p>
-</section>
-<section id="our-ideas-in-practice" class="level1">
-<h1>Our ideas in practice</h1>
-<p>The World Health Organization provides information on age-adjusted (age-standardized) mortality rates due to non-communicable diseases (NCDs)—see <a href="https://www.who.int/data/gho/data/indicators/indicator-details/GHO/gho-ghe-ncd-mortality-rate">here</a>.</p>
-<ul>
-<li>They also provide <a href="https://www.who.int/data/gho/indicator-metadata-registry/imr-details/78">information</a> about how these rates were calculated and where the data underlying the calculations come from.</li>
-<li><a href="https://seer.cancer.gov/stdpopulations/world.who.html">This NIH page</a> contains the exact standard population used.</li>
-<li><a href="https://www.researchgate.net/publication/284696312_Age_Standardization_of_Rates_A_New_WHO_Standard">This paper</a> provides detailed discussion about the WHO’s choice of standard population.</li>
-</ul>
-<hr>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://w3.unece.org/SDG/Resources/Images/Goals/3_en_i.png" class="img-fluid figure-img"></p>
-</figure>
-</div>
-<p>One of the United Nations’ <a href="https://w3.unece.org/SDG/en">Sustainable Development Goals</a>, is <strong>Good Health and Well-Being</strong> which is described as “Ensure healthy lives and promote well-being for all at all ages”. One of the metrics used to evaluate progress towards this goal is <a href="https://w3.unece.org/SDG/en/Indicator?id=96">Age-standardized mortality rate attributed to household and ambient air pollution</a>.</p>
-<hr>
-<p>The CDC’s <a href="https://www.cdc.gov/nchs/products/databriefs/db456.htm">data briefs</a> contain a section about age-adjusted death rates for race-ethnicity-sex groups.</p>
-<p><br><br><br><br></p>
-</section>
-<section id="synthesis-activity" class="level1">
-<h1>Synthesis activity</h1>
-<p>The following prompt is meant to resemble one that could be used for our first <a href="./syllabus.html#content-conversations">Content Conversation</a>. It is meant to encourage thinking about how our ideas are used in practice and to reinforce conceptual understanding underlying the practice problems we do in our activities.</p>
-<p><strong>Prompt:</strong> A community health organization wants to determine whether to devote more resources to addressing mental health issues or cardiovascular health issues. You’ll help them approach this decision through the lens of our course topics so far.</p>
-<ul>
-<li>Would prevalence data be useful in this decision making? What about incidence data? How would this data be used in the decision making process?</li>
-<li>How would you go about collecting prevalence and/or incidence data within the communities served by the community health organization? If you collect incidence data, will you likely summarize that data with cumulative incidence or incidence rate? What problems do you foresee in collecting accurate data?</li>
-<li>Suppose that the community health organization wants to implement changes to their mental health resources and look at the incidence of mental health issues after this change. They want to compare this to mental health incidence data from the previous year to evaluate the efficacy of their new resources. How might ideas related to direct standardization be relevant here?</li>
-</ul>
-<p><br></p>
-<p><strong>Directions:</strong> Take 10 minutes to outline some ideas for addressing this prompt on your own. Afterwards, share ideas with your group.</p>
-<p><br></p>
-<p><strong>A good response should:</strong></p>
-<ul>
-<li>Show understanding of the difference between prevalence and incidence</li>
-<li>Present feasible means of collecting prevalence/incidence data and acknowledge the limitations of that data collection process</li>
-<li>Show understanding of the difference between cumulative incidence and incidence rate</li>
-<li>Show understanding of how direct standardization relates to the goal of making fair comparisons</li>
-</ul>
-<p><br></p>
-<p><strong>Ideas from the instructor:</strong></p>
-<ul>
-<li>Who is suffering more now? Who will be suffering more in the future? The distinction between these two questions leads us to consider prevalence data (former question) and incidence data (latter question).</li>
-<li>In this context, survey data seems like the most feasible option. Wording survey questions so that they measure what we want will require careful attention. Prevalence data could be measured with a single survey. If wanting to collect current incidence data we will need repeated surveys, which are prone to dropout. It is also possible to collect incidence data retrospectively by asking participants when they developed a condition. However, this type of question is subject to <strong>recall bias</strong>–the tendency to inaccurately recall information from the past.</li>
-<li>For collecting current incidence data where we follow community members forward in time, we will want to keep in mind how many people are followed for the full time. If many people move, for example, and are not followed for the full time span in which we are collecting incidence data, we would likely prefer to summarize incidence using the incidence rate rather than cumulative incidence because incidence rate takes into account information from people who are not observed for the full time span.</li>
-<li>The comparison of mental health incidence rates before and after introduction of new resources is a comparison whose goal is to estimate the true (causal) impact of those new resources. The comparison of incidence rates might be unfair if something other than the use of resources is different between the populations in which those incidences are measured. For example, if the time spans being compared are pre-COVID and during COVID, there are certainly differences in exercise levels that could affect incidence of mental health issues. It could be useful to apply the ideas of direct standardization to ensure that the pre- and during-COVID times have the same distribution of exercise levels. This would help us make a more fair comparison.</li>
-</ul>
+<p>Navigate to <a href="https://moodle.macalester.edu/mod/folder/view.php?id=85544">Moodle</a>, and open the PDF titled <code>04_life_exp_activity</code>.</p>
+<!-- https://www.who.int/data/gho/data/themes/mortality-and-global-health-estimates -->
 
 
 </section>
