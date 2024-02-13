@@ -20,7 +20,6 @@ website:
       - file: syllabus.qmd
         text: "Syllabus"
       - sidebar:activities
-      # - sidebar:homework
       - file: project.qmd
         text: "Project"
 
@@ -33,6 +32,7 @@ website:
         - 03-mortality-standardization.qmd
         - 04-life-exp.qmd
         - mini-project1.qmd
+        - 05-cohort.qmd
   
   page-footer:
     left: |

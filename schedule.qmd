@@ -118,7 +118,8 @@ Videos that I will ask you to watch before class can be found in [this YouTube p
     </td>
     
     <td class="topleft">
-      <b>2/15: Cohort studies (part 2)</b>
+      <b>2/15: Cohort studies (part 2)</b> <br>
+      Before class read the following sections of the paper <a href="https://academic.oup.com/aje/article/181/11/874/87434">Association of Stillbirth With Ambient Air Pollution in a California Cohort Study</a>: Abstract (summary paragraph at beginning), Introduction, Methods, Discussion.
     </td>
     
     <td class="topleft">

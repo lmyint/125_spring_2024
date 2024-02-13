@@ -1,0 +1,74 @@
+---
+title: "Cohort studies"
+sidebar: false
+format: html
+html-math-method: mathml
+---
+
+# Learning goals
+
+After this lesson, you should be able to:
+
+- Explain the rationale for how cohort studies help us study the link between exposures and disease outcomes.
+- Describe the difference between measuring the strength of association between exposure and disease versus impact of exposure on disease risk.
+- Compute and interpret a relative risk from study data.
+- Compute and interpret an attributable risk (AR) and a population attributable risk (PAR) from study data.
+
+
+<br><br><br><br>
+
+
+# Recap of video material
+
+## Observational vs. experimental
+
+## Ecological studies
+
+Ecological studies, like cohort studies, are a type of observational study. In these studies, the unit of observation is an **aggregate** (e.g., state, country) rather than an individual person.
+
+The following ﬁgure from [this article](https://pubmed.ncbi.nlm.nih.gov/3292773/) shows an example of an ecological study. The unit of observation is a country, and on each country, we have data on breast cancer incidence and average dietary fat consumption.
+
+![](images/ecological_bc_fat.png){fig-align="center"}
+
+- What we do learn from this study: There seems to be a relationship between breast cancer incidence and average fat consumption **at the country level**.
+- What we do not learn: We do not learn whether there is a relationship between breast cancer incidence and average fat consumption **at the individual level**. That is, we do not learn that an individual is more likely to develop breast cancer if they eat more fat.
+
+The **ecological fallacy** is a term that describes the idea that a conclusion on aggregate data does not necessarily transfer to individuals.
+
+<br>
+
+Let's look at one more example. A [New England Journal of Medicine study](https://www.nejm.org/doi/full/10.1056/nejmon1211064) looked at the relationship between chocolate consumption and cognitive function by using country-level data:
+
+![](images/ecological_chocolate_nobel.png){fig-align="center"}
+
+We'll think more on this study in our exercises.
+
+
+## Cohort studies
+
+Unlike ecological studies, cohort studies obtain data on **individuals**.
+
+- Contextual knowledge leads investigators to explore a particular exposure. Even though *exposure* has the connotation of a harmful exposure, the exposure studied could be a beneficial exposure, like a treatment.
+- Once we have identified individuals who were exposed and unexposed, we follow them over time to collect incidence data.
+    - This can be done prospectively (actually following forward in time) or retrospectively (looking back historically at an earlier time point and following time forward to the present).
+
+Comparing incidence between the exposed ($I_{exp}$) and unexposed ($I_{unexp}$)
+
+- Ratios: $I_{exp}/I_{unexp}$ - this is a **relative risk (RR) ** and measures how strongly associated exposure and disease are.
+    - Interpretation: We say that one group is RR times as likely to experience the outcome relative to another group.
+- Differences:
+    - **Attributable risk in the exposed (AR):** $I_{exp} - I_{unexp}$
+        - This measures impact of exposure (or excess risk) in exposed individuals.
+        - Interpretation: If AR = 130 cases/100,000 people, we interpret this AR as "If there were 100,000 fewer exposures, we would expect to see 130 fewer disease cases."
+    - **Attributable risk in the population (PAR):** $I_{pop} - I_{unexp}$
+        - This measures the impact of exposure in a population.
+        - Interpretation: If PAR = 90 cases/100,000 people, we interpret this AR as "If there were 100,000 fewer exposures in the population, we would expect to see 90 fewer disease cases."
+        
+
+
+<br><br><br><br>
+
+
+# Activity
+
+Navigate to [Moodle](https://moodle.macalester.edu/mod/folder/view.php?id=86428), and open the PDF titled `05_cohort_studies_activity`.
