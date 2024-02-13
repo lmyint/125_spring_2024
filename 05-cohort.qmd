@@ -22,13 +22,23 @@ After this lesson, you should be able to:
 
 ## Observational vs. experimental
 
+Observational studies
+
+- Cohort studies (this week)
+- Case-control studies (next week)
+- Ecological studies (this week)
+
+Experimental studies
+
+- Randomized experiments (after Spring Break)
+
 ## Ecological studies
 
 Ecological studies, like cohort studies, are a type of observational study. In these studies, the unit of observation is an **aggregate** (e.g., state, country) rather than an individual person.
 
 The following ﬁgure from [this article](https://pubmed.ncbi.nlm.nih.gov/3292773/) shows an example of an ecological study. The unit of observation is a country, and on each country, we have data on breast cancer incidence and average dietary fat consumption.
 
-![](images/ecological_bc_fat.png){fig-align="center"}
+![](images/ecological_bc_fat.png){fig-align="center" width=65%}
 
 - What we do learn from this study: There seems to be a relationship between breast cancer incidence and average fat consumption **at the country level**.
 - What we do not learn: We do not learn whether there is a relationship between breast cancer incidence and average fat consumption **at the individual level**. That is, we do not learn that an individual is more likely to develop breast cancer if they eat more fat.
@@ -39,12 +49,14 @@ The **ecological fallacy** is a term that describes the idea that a conclusion o
 
 Let's look at one more example. A [New England Journal of Medicine study](https://www.nejm.org/doi/full/10.1056/nejmon1211064) looked at the relationship between chocolate consumption and cognitive function by using country-level data:
 
-![](images/ecological_chocolate_nobel.png){fig-align="center"}
+![](images/ecological_chocolate_nobel.png){fig-align="center" width=65%}
 
 We'll think more on this study in our exercises.
 
 
 ## Cohort studies
+
+### Study design
 
 Unlike ecological studies, cohort studies obtain data on **individuals**.
 
@@ -52,19 +64,30 @@ Unlike ecological studies, cohort studies obtain data on **individuals**.
 - Once we have identified individuals who were exposed and unexposed, we follow them over time to collect incidence data.
     - This can be done prospectively (actually following forward in time) or retrospectively (looking back historically at an earlier time point and following time forward to the present).
 
-Comparing incidence between the exposed ($I_{exp}$) and unexposed ($I_{unexp}$)
+### Using data to make comparisons
 
-- Ratios: $I_{exp}/I_{unexp}$ - this is a **relative risk (RR) ** and measures how strongly associated exposure and disease are.
-    - Interpretation: We say that one group is RR times as likely to experience the outcome relative to another group.
-- Differences:
-    - **Attributable risk in the exposed (AR):** $I_{exp} - I_{unexp}$
-        - This measures impact of exposure (or excess risk) in exposed individuals.
-        - Interpretation: If AR = 130 cases/100,000 people, we interpret this AR as "If there were 100,000 fewer exposures, we would expect to see 130 fewer disease cases."
-    - **Attributable risk in the population (PAR):** $I_{pop} - I_{unexp}$
-        - This measures the impact of exposure in a population.
-        - Interpretation: If PAR = 90 cases/100,000 people, we interpret this AR as "If there were 100,000 fewer exposures in the population, we would expect to see 90 fewer disease cases."
+Cohort study data allows us to compare incidence between the exposed ($I_{exp}$) and unexposed ($I_{unexp}$).
+
+**Ratios:**
+
+- **Relative risk:** $I_{exp}/I_{unexp}$
+    - It measures how strongly associated exposure and disease are.
+    - *Interpretation:* If RR = 2, we say that the exposed group is 2 times as likely to experience the outcome as the unexposed group.
+
+**Differences:**
+
+- **Attributable risk in the exposed (AR):** $I_{exp} - I_{unexp}$
+    - This measures impact of exposure (or excess risk) in exposed individuals. If we could have removed the exposure for people who were exposed, how much disease could we prevent?
+    - *Interpretation:* If AR = 130 cases/100,000 people, we interpret this AR as "If there were 100,000 fewer exposures, we would expect to see 130 fewer disease cases."
+
+- **Attributable risk in the population (PAR):** $I_{pop} - I_{unexp}$
+    - This measures the impact of exposure in a population. If we could remove an exposure for an entire population, how much disease could we prevent?
+    - *Interpretation:* If PAR = 90 cases/100,000 people, we interpret this AR as "If we eliminated the exposure across the entire population, we would expect to see 90 fewer disease cases per 100,000 people."
+    - Note: PAR will be between 0 and AR.
+        - The extreme of 0 represents the impact if *no one* in the population is exposed.
+        - The extreme of AR represents the impact if *everyone* in the population is exposed.
+        - We can also see that PAR is between 0 and AR from the fact that $PAR = AR \times \text{Prevalence of exposure}$ because exposure prevalence is between 0 and 1.
         
-
 
 <br><br><br><br>
 
