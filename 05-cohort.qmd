@@ -95,3 +95,20 @@ Cohort study data allows us to compare incidence between the exposed ($I_{exp}$)
 # Activity
 
 Navigate to [Moodle](https://moodle.macalester.edu/mod/folder/view.php?id=86428), and open the PDF titled `05_cohort_studies_activity`.
+
+
+<br><br><br><br>
+
+
+# Article discussion
+
+We'll explore the details of the article [Association of Stillbirth With Ambient Air Pollution in a California Cohort Study](https://academic.oup.com/aje/article/181/11/874/87434) through the following discussion questions:
+
+1. In the abstract, the authors mention that they use a "retrospective cohort design." Based on what you read in the Methods section, how do you think a retrospective cohort study is carried out in general? What could be one advantage of this study design?
+
+2. What concerns might we have about the quality/accuracy of different pieces of data in this study?
+
+3. We've used 2x2 tables to summarize information from cohort studies. What do you think such a table would like for this study?
+
+4. In the Discussion, the authors discuss their inability to look at the role of smoking in stillbirth risk. They are not overly concerned, for they state: "Previous studies of other birth outcomes conducted in California and nationally have not seen shifts in air pollution associations after adjustment for smoking." Describe how concepts from direct standardization apply here.
+

@@ -124,7 +124,7 @@ Videos that I will ask you to watch before class can be found in [this YouTube p
     
     <td class="topleft">
       Homework 2 due Monday 2/19 at midnight.<br>
-      Schedule Content Conversation 1 (15 minutes) for next week (2/21-2/28).
+      Schedule Content Conversation 1 (15 minutes) for next week (2/21-2/28) via <a href="https://calendly.com/lmyint">Calendly</a>.
     </td>
   </tr>
   <!----------------------------------------------------------->

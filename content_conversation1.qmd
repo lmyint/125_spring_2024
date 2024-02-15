@@ -1,0 +1,66 @@
+---
+title: "Content Conversation 1"
+sidebar: false
+---
+
+# Context
+
+The purpose of a CC is to encourage *deep and collaborative study* and to give both yourself and the instructor a *detailed understanding of your learning*.
+
+You will sign up for a 15 minute discussion slot with the instructor via [Calendly](https://calendly.com/lmyint). In our conversation, we will discuss two prompts (see section below). Prompt 1 is required for everyone. The second prompt we discuss will be picked randomly from Prompts 2 to 4.
+
+I encourage you to study collaboratively and talk through your explanations with each other because this will be great practice for our conversation.
+
+
+<br><br>
+
+
+# Prompts
+
+## Prompt 1
+
+Macalester wants to set up a program to monitor concussions in the student and staff population in order to ensure adequate support for people affected by concussions.
+
+- How could prevalence and incidence data on concussions be useful to Mac. What are a few concrete actions that they could take with this data?
+- How might Mac go about collecting prevalence and incidence data on concussions? What problems do you foresee in collecting accurate data?
+- Suppose that Mac wants to compare chances of concussion across different athletic teams. How might ideas related to direct standardization be relevant here?
+
+## Prompt 2
+
+Walk through the steps of computing the age-adjusted mortality rate for Population A below, and explain the rationale for each step. Use Population B as the standard population. Your explanation should be accessible to someone who has not taken Epidemiology.
+
+Mortality information:
+
+| Age category | Population A mortality rate (per 100 people) | Population B mortality rate (per 100 people) |
+|:-------------|:--------------------------------------------:|:--------------------------------------------:|
+| Young | 10 | 20 |
+| Old   | 20 | 30 |
+
+Number of people in each age category:
+
+| Age category | Population A | Population B |
+|:-------------|:------------:|:-----------:|
+| Young | 700 | 200 |
+| Old   | 300 | 800 |
+
+## Prompt 3
+
+Walk through the steps of computing life expectancy for the following population, and explain the rationale for each step. Make any assumptions that you need to perform the computation. Your explanation should be accessible to someone who has not taken Epidemiology.
+
+| Age category | Mortality rate (per 100 people) |
+|:-------------|:-------------------------------:|
+| Young        | 10                              |
+| Old          | 100                             |
+
+## Prompt 4
+
+We have data from a cohort study of children that investigated the relationship between close proximity to a waste burning site (exposure) and incidence of asthma.
+
+|           | Asthma  | No asthma  |
+|:----------|:-------:|:----------:|
+| Exposed   |   200   |    800     |
+| Unexposed |   100   |    900     |
+
+- Compute and interpret a relative risk.
+- Compute and interpret an attributable risk.
+- Compute and interpret a population attributable risk if 5% of the population lives in close proximity to waste burning site.

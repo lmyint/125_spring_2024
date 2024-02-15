@@ -20,6 +20,7 @@ website:
       - file: syllabus.qmd
         text: "Syllabus"
       - sidebar:activities
+      - sidebar:content_convos
       - file: project.qmd
         text: "Project"
 
@@ -33,6 +34,11 @@ website:
         - 04-life-exp.qmd
         - mini-project1.qmd
         - 05-cohort.qmd
+    
+    - id: content_convos
+      title: "Content Conversations"
+      contents:
+        - content_conversation1.qmd
   
   page-footer:
     left: |
