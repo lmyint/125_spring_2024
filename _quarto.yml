@@ -34,6 +34,7 @@ website:
         - 04-life-exp.qmd
         - mini-project1.qmd
         - 05-cohort.qmd
+        - 06-case-control.qmd
     
     - id: content_convos
       title: "Content Conversations"

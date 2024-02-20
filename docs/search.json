@@ -147,11 +147,46 @@
     "text": "Cohort studies\n\nStudy design\nUnlike ecological studies, cohort studies obtain data on individuals.\n\nContextual knowledge leads investigators to explore a particular exposure. Even though exposure has the connotation of a harmful exposure, the exposure studied could be a beneficial exposure, like a treatment.\nOnce we have identified individuals who were exposed and unexposed, we follow them over time to collect incidence data.\n\nThis can be done prospectively (actually following forward in time) or retrospectively (looking back historically at an earlier time point and following time forward to the present).\n\n\n\n\nUsing data to make comparisons\nCohort study data allows us to compare incidence between the exposed (IexpI_{exp}) and unexposed (IunexpI_{unexp}).\nRatios:\n\nRelative risk: Iexp/IunexpI_{exp}/I_{unexp}\n\nIt measures how strongly associated exposure and disease are.\nInterpretation: If RR = 2, we say that the exposed group is 2 times as likely to experience the outcome as the unexposed group.\n\n\nDifferences:\n\nAttributable risk in the exposed (AR): Iexp−IunexpI_{exp} - I_{unexp}\n\nThis measures impact of exposure (or excess risk) in exposed individuals. If we could have removed the exposure for people who were exposed, how much disease could we prevent?\nInterpretation: If AR = 130 cases/100,000 people, we interpret this AR as “If there were 100,000 fewer exposures, we would expect to see 130 fewer disease cases.”\n\nAttributable risk in the population (PAR): Ipop−IunexpI_{pop} - I_{unexp}\n\nThis measures the impact of exposure in a population. If we could remove an exposure for an entire population, how much disease could we prevent?\nInterpretation: If PAR = 90 cases/100,000 people, we interpret this AR as “If we eliminated the exposure across the entire population, we would expect to see 90 fewer disease cases per 100,000 people.”\nNote: PAR will be between 0 and AR.\n\nThe extreme of 0 represents the impact if no one in the population is exposed.\nThe extreme of AR represents the impact if everyone in the population is exposed.\nWe can also see that PAR is between 0 and AR from the fact that PAR=AR×Prevalence of exposurePAR = AR \\times \\text{Prevalence of exposure} because exposure prevalence is between 0 and 1."
   },
   {
+    "objectID": "06-case-control.html",
+    "href": "06-case-control.html",
+    "title": "Case-control studies",
+    "section": "",
+    "text": "After this lesson, you should be able to:\n\nExplain why one might one prefer to conduct a case-control study over a cohort study\nExplain why odds ratios rather than relative risks are used as a measure of association in case-control studies\nCompute an interpret an odds ratio from study data"
+  },
+  {
+    "objectID": "06-case-control.html#cohort-vs.-case-control-studies",
+    "href": "06-case-control.html#cohort-vs.-case-control-studies",
+    "title": "Case-control studies",
+    "section": "Cohort vs. case-control studies",
+    "text": "Cohort vs. case-control studies\nNature of sampling\n\nCohort: Sample by exposure status\nCase-control: Sample by disease status\n\nResources needed\n\nCohort:\n\nIf using a prospective cohort study, a lot of time might be needed for the disease to develop\nMight need to enroll a large number of patients if the disease is rare\n\nCase-control:\n\nAll data on outcomes and exposures are available without having to wait for follow up (like a retrospective cohort study)\n\n\nOther considerations"
+  },
+  {
+    "objectID": "06-case-control.html#odds",
+    "href": "06-case-control.html#odds",
+    "title": "Case-control studies",
+    "section": "Odds",
+    "text": "Odds\n\nOdds are, when someone talks about odds, they’re not talking about odds.\n\nIf pp is the probability of an event (say, the risk of disease in an exposed group), the odds of that event is:\nodds=p1−p\\mathrm{odds} = \\frac{p}{1-p}\nIn other words, the odds tells us how much more likely an event is to happen than not happen.\n\nUnlike probability, it is not between 0 and 1. Odds can go from 0 to infinity.\nIncreasing odds does mean increasing probability.\n\nIf Event A has higher odds than Event B, Event A is indeed more likely than Event B.\n\n\nQuick exercise: Jump to Moodle, and open the PDF titled 06_case_control_studies_activity. Let’s do Exercise 1."
+  },
+  {
+    "objectID": "06-case-control.html#odds-ratios-as-measures-of-association",
+    "href": "06-case-control.html#odds-ratios-as-measures-of-association",
+    "title": "Case-control studies",
+    "section": "Odds ratios as measures of association",
+    "text": "Odds ratios as measures of association\nJump to Moodle, and open the PDF titled OR_RR_handout. We’ll walk through this handout together."
+  },
+  {
+    "objectID": "06-case-control.html#potential-biases-in-selection-of-cases-and-controls",
+    "href": "06-case-control.html#potential-biases-in-selection-of-cases-and-controls",
+    "title": "Case-control studies",
+    "section": "Potential biases in selection of cases and controls",
+    "text": "Potential biases in selection of cases and controls\nWe’ll explore some scenarios on Thursday."
+  },
+  {
     "objectID": "content_conversation1.html",
     "href": "content_conversation1.html",
     "title": "Content Conversation 1",
     "section": "",
-    "text": "The purpose of a CC is to encourage deep and collaborative study and to give both yourself and the instructor a detailed understanding of your learning.\nYou will sign up for a 15 minute discussion slot with the instructor via Calendly. In our conversation, we will discuss two prompts (see section below). Prompt 1 is required for everyone. The second prompt we discuss will be picked randomly from Prompts 2 to 4.\nI encourage you to study collaboratively and talk through your explanations with each other because this will be great practice for our conversation."
+    "text": "The purpose of a CC is to encourage deep and collaborative study and to give both yourself and the instructor a detailed understanding of your learning.\nYou will sign up for a 15 minute discussion slot with the instructor via Calendly. In our conversation, we will discuss two prompts (see section below). Prompt 1 is required for everyone. The second prompt we discuss will be picked randomly from Prompts 2 to 4.\nI encourage you to study collaboratively and talk through your explanations with each other because this will be great practice for our conversation.\nYou can bring notes with you to the conversation, but I will ask that you not read directly from your notes."
   },
   {
     "objectID": "content_conversation1.html#prompt-1",
