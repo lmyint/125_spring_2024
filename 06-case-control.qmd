@@ -1,0 +1,71 @@
+---
+title: "Case-control studies"
+sidebar: false
+format: html
+html-math-method: mathml
+---
+
+# Learning goals
+
+After this lesson, you should be able to:
+
+- Explain why one might one prefer to conduct a case-control study over a cohort study
+- Explain why odds ratios rather than relative risks are used as a measure of association in case-control studies
+- Compute an interpret an odds ratio from study data
+
+
+<br><br><br><br>
+
+
+# Recap of video material
+
+## Cohort vs. case-control studies
+
+Nature of sampling
+
+- Cohort: Sample by exposure status
+- Case-control: Sample by disease status
+
+Resources needed
+
+- Cohort:
+    - If using a prospective cohort study, a lot of time might be needed for the disease to develop
+    - Might need to enroll a large number of patients if the disease is rare
+- Case-control:
+    - All data on outcomes and exposures are available without having to wait for follow up (like a retrospective cohort study)
+
+Other considerations
+
+## Odds
+
+> Odds are, when someone talks about odds, they're not talking about odds.
+
+If $p$ is the probability of an event (say, the risk of disease in an exposed group), the **odds** of that event is:
+
+$$\mathrm{odds} = \frac{p}{1-p}$$
+
+In other words, the odds tells us **how much more likely an event is to happen than not happen**.
+
+- Unlike probability, it is not between 0 and 1. Odds can go from 0 to infinity.
+- Increasing odds *does* mean increasing probability.
+    - If Event A has higher odds than Event B, Event A is indeed more likely than Event B.
+
+**Quick exercise:** Jump to [Moodle](https://moodle.macalester.edu/mod/folder/view.php?id=87525), and open the PDF titled `06_case_control_studies_activity`. Let's do Exercise 1.
+
+## Odds ratios as measures of association
+
+Jump to [Moodle](https://moodle.macalester.edu/mod/folder/view.php?id=87525), and open the PDF titled `OR_RR_handout`. We'll walk through this handout together.
+
+## Potential biases in selection of cases and controls
+
+We'll explore some scenarios on Thursday.
+
+        
+
+<br><br><br><br>
+
+
+# Activity
+
+Navigate to [Moodle](https://moodle.macalester.edu/mod/folder/view.php?id=87525), and open the PDF titled `06_case_control_studies_activity`.
+
