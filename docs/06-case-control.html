@@ -165,6 +165,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#odds" id="toc-odds" class="nav-link" data-scroll-target="#odds">Odds</a></li>
   <li><a href="#odds-ratios-as-measures-of-association" id="toc-odds-ratios-as-measures-of-association" class="nav-link" data-scroll-target="#odds-ratios-as-measures-of-association">Odds ratios as measures of association</a></li>
   <li><a href="#potential-biases-in-selection-of-cases-and-controls" id="toc-potential-biases-in-selection-of-cases-and-controls" class="nav-link" data-scroll-target="#potential-biases-in-selection-of-cases-and-controls">Potential biases in selection of cases and controls</a></li>
+  <li><a href="#exploring-cohort-and-case-control-studies-via-simulation" id="toc-exploring-cohort-and-case-control-studies-via-simulation" class="nav-link" data-scroll-target="#exploring-cohort-and-case-control-studies-via-simulation">Exploring cohort and case-control studies via simulation</a></li>
   </ul></li>
   <li><a href="#activity" id="toc-activity" class="nav-link" data-scroll-target="#activity">Activity</a></li>
   </ul>
@@ -246,7 +247,55 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="potential-biases-in-selection-of-cases-and-controls" class="level2">
 <h2 class="anchored" data-anchor-id="potential-biases-in-selection-of-cases-and-controls">Potential biases in selection of cases and controls</h2>
-<p>We’ll explore some scenarios on Thursday.</p>
+<p>Study: Tuberculosis and cancer</p>
+<ul>
+<li>Context and study design
+<ul>
+<li>1929 study investigated whether tuberculosis protects against cancer</li>
+<li>Autopsies at Johns Hopkins Hospital were examined and this led to the identification of 816 cancer patients</li>
+<li>816 controls were identified from the remaining autopsies</li>
+</ul></li>
+<li>Results:
+<ul>
+<li>In the 816 cancer patients, 54 had tuberculosis (6.6%)</li>
+<li>In the 816 controls, 133 had tuberculosis (16.3%)</li>
+<li>Because tuberculosis was less common in the controls, it appeared that tuberculosis was protective</li>
+</ul></li>
+<li>Problems with control selection
+<ul>
+<li>Tuberculosis was a major cause of being admitted to Johns Hopkins Hospital at the time</li>
+<li>The prevalence of tuberculosis among both cases and controls was likely over-represented but likely more so in the controls. Why? If one did not have cancer, there had to be SOME reason for being in the hospital. At the time, that reason was very commonly tuberculosis.</li>
+</ul></li>
+<li>Possible better approaches
+<ul>
+<li>Guiding goal: Want the controls to accurately represent the people in the population who don’t have disease</li>
+<li>Survey Baltimore neighborhoods to find controls and ascertain their tuberculosis exposure</li>
+</ul></li>
+</ul>
+</section>
+<section id="exploring-cohort-and-case-control-studies-via-simulation" class="level2">
+<h2 class="anchored" data-anchor-id="exploring-cohort-and-case-control-studies-via-simulation">Exploring cohort and case-control studies via simulation</h2>
+<p>The interactive application available at <a href="https://lesliemyint.shinyapps.io/cohort_case_control/" class="uri">https://lesliemyint.shinyapps.io/cohort_case_control/</a> allows for exploration of the properties of relative risks and odds ratios in cohort and case-control studies. (If you are interested in coding in R and data science, the application is an example of something that you could create in going through the Data Science curriculum in MSCS.)</p>
+<ol type="1">
+<li>By default, the simulation shows a population of 1 million people in which the disease is rare.
+<ol type="a">
+<li>Check the calculations for the relative risk and odds ratio. (These are labeled as “True” values because they are computed in the whole population.)</li>
+<li>Are the true RR and OR close? Brieﬂy explain why or why not.</li>
+<li>Now click the “Common (30%)” button under “Rarity of disease”. How do the RR and OR compare now? Brieﬂy explain.</li>
+</ol></li>
+</ol>
+<p>The advantage of simulations is that we know the true values of the quantities that we’re trying to estimate (here: ORs and RRs). We can use that knowledge to examine how well our study designs “work” - that is, how well they estimate the truth when we don’t have access to the whole population.</p>
+<ol start="2" type="1">
+<li>Clicking the “Perform each study once” button carries out both a cohort and a case-control study in the population with the selected disease rarity. That is, for a cohort study, the selected number of exposed individuals are drawn from the population of exposed individuals, and the same for unexposed individuals. For a case-control study, the same is done for people with the disease and people without the disease.
+<ol type="a">
+<li>How close are the studies’ OR and RR to the true OR and RR from the population? Why might we expect the studies’ OR and RR to be a bit different from the truth?</li>
+</ol></li>
+<li>You can perform 100 cohort and 100 case-control studies by clicking the “Perform each study 100 times” button. Results are summarized in boxplots at the bottom of the page. The thick black line in the middle of rectangle give the median value. The red horizontal dashed lines indicate the true population values.
+<ol type="a">
+<li>Conduct studies for the range of sample sizes for both rare and common diseases. In what situations did the studies tend to estimate the true population values well?</li>
+<li>The height of the boxplots is a direct indicator of the variation in estimates from study to study. What do you notice about this variation as sample size increases?</li>
+</ol></li>
+</ol>
 <p><br><br><br><br></p>
 </section>
 </section>

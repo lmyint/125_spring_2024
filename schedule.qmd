@@ -154,7 +154,7 @@ Videos that I will ask you to watch before class can be found in [this YouTube p
     
     <td class="topleft">
       <b>2/27: Confounding and causation (part 1)</b><br>
-      Pre-class video: <a href="https://youtu.be/nKQQHq-fK10?si=pelRDAtxJoLNqllg">Causation</a> (<a href="https://drive.google.com/file/d/1qLM4FFOZGU5GCvOIRUWQ12qocp8hi8rn/view?usp=sharing">slides</a>)
+      Pre-class video and slides: <a href="https://moodle.macalester.edu/mod/page/view.php?id=87815">Available on Moodle</a>
     </td>
     
     <td class="topleft">

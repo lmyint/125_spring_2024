@@ -58,10 +58,42 @@ Jump to [Moodle](https://moodle.macalester.edu/mod/folder/view.php?id=87525), an
 
 ## Potential biases in selection of cases and controls
 
-We'll explore some scenarios on Thursday.
+Study: Tuberculosis and cancer
+
+- Context and study design
+    - 1929 study investigated whether tuberculosis protects against cancer
+    - Autopsies at Johns Hopkins Hospital were examined and this led to the identification of 816 cancer patients
+    - 816 controls were identified from the remaining autopsies
+- Results:
+    - In the 816 cancer patients, 54 had tuberculosis (6.6%)
+    - In the 816 controls, 133 had tuberculosis (16.3%)
+    - Because tuberculosis was less common in the controls, it appeared that tuberculosis was protective
+- Problems with control selection
+    - Tuberculosis was a major cause of being admitted to Johns Hopkins Hospital at the time
+    - The prevalence of tuberculosis among both cases and controls was likely over-represented but likely more so in the controls. Why? If one did not have cancer, there had to be SOME reason for being in the hospital. At the time, that reason was very commonly tuberculosis.
+- Possible better approaches
+    - Guiding goal: Want the controls to accurately represent the people in the population who don't have disease
+    - Survey Baltimore neighborhoods to find controls and ascertain their tuberculosis exposure
+
+## Exploring cohort and case-control studies via simulation
+
+The interactive application available at <https://lesliemyint.shinyapps.io/cohort_case_control/> allows for exploration of the properties of relative risks and odds ratios in cohort and case-control studies. (If you are interested in coding in R and data science, the application is an example of something that you could create in going through the Data Science curriculum in MSCS.)
+
+1. By default, the simulation shows a population of 1 million people in which the disease is rare.
+    a. Check the calculations for the relative risk and odds ratio. (These are labeled as “True” values because they are computed in the whole population.)
+    b. Are the true RR and OR close? Brieﬂy explain why or why not.
+    c. Now click the "Common (30%)" button under "Rarity of disease". How do the RR and OR compare now? Brieﬂy explain.
+
+The advantage of simulations is that we know the true values of the quantities that we’re trying to estimate (here: ORs and RRs). We can use that knowledge to examine how well our study designs "work" - that is, how well they estimate the truth when we don’t have access to the whole population.
+
+2. Clicking the "Perform each study once" button carries out both a cohort and a case-control study in the population with the selected disease rarity. That is, for a cohort study, the selected number of exposed individuals are drawn from the population of exposed individuals, and the same for unexposed individuals. For a case-control study, the same is done for people with the disease and people without the disease.
+    a. How close are the studies' OR and RR to the true OR and RR from the population? Why might we expect the studies' OR and RR to be a bit different from the truth?
+
+3. You can perform 100 cohort and 100 case-control studies by clicking the "Perform each study 100 times" button. Results are summarized in boxplots at the bottom of the page. The thick black line in the middle of rectangle give the median value. The red horizontal dashed lines indicate the true population values.
+    a. Conduct studies for the range of sample sizes for both rare and common diseases. In what situations did the studies tend to estimate the true population values well?
+    b. The height of the boxplots is a direct indicator of the variation in estimates from study to study. What do you notice about this variation as sample size increases?
 
         
-
 <br><br><br><br>
 
 
