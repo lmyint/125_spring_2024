@@ -172,7 +172,8 @@ Videos that I will ask you to watch before class can be found in [this YouTube p
     <td class="topleft">8</td>
     
     <td class="topleft">
-      <b>3/5: Confounding and causation (part 2)</b>
+      <b>3/5: Confounding and causation (part 2)</b> <br>
+      Before class please read <a href="https://academic.oup.com/aje/article/164/11/1115/61454">The Birth Weight "Paradox" Uncovered?</a>
     </td>
     
     <td class="topleft">
