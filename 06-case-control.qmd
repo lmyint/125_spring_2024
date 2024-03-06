@@ -67,7 +67,7 @@ Study: Tuberculosis and cancer
 - Results:
     - In the 816 cancer patients, 54 had tuberculosis (6.6%)
     - In the 816 controls, 133 had tuberculosis (16.3%)
-    - Because tuberculosis was less common in the controls, it appeared that tuberculosis was protective
+    - Because tuberculosis was more common in the controls, it appeared that tuberculosis was protective
 - Problems with control selection
     - Tuberculosis was a major cause of being admitted to Johns Hopkins Hospital at the time
     - The prevalence of tuberculosis among both cases and controls was likely over-represented but likely more so in the controls. Why? If one did not have cancer, there had to be SOME reason for being in the hospital. At the time, that reason was very commonly tuberculosis.

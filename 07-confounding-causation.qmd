@@ -1,0 +1,21 @@
+---
+title: "Confounding and causation"
+sidebar: false
+format: html
+html-math-method: mathml
+---
+
+# Learning goals
+
+After this lesson, you should be able to:
+
+- Check whether a variable could confound the relationship between an exposure and an outcome by looking at (1) crude and stratified association measures, (2) association measures between the potential confounder and the outcome, and (3) association measures between the potential confounder and the exposure
+- Use causal diagrams to identify variables that we would and would not want to adjust for to examine a causal relationship between an exposure and an outcome
+
+
+<br><br><br><br>
+
+
+# Moodle activities
+
+See folder [here](https://moodle.macalester.edu/mod/folder/view.php?id=88507).
