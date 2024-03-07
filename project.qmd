@@ -42,3 +42,27 @@ The rubric below details quality expectations for the different aspects of the p
 *Details coming soon.*
 
 
+
+# Class Activities
+
+## March 7
+
+Our goal today is to think about an exposure or treatment that is relevant for the health or well-being topic for your project and use 
+
+1. Check in with your group and confirm with each other a health or well-being topic that you want to pursue.
+2. Identify an exposure or treatment related to your topic where the causal relationship between the exposure/treatment and health outcome is of interest.
+3. Each team member should search for one research article relating in one of the following journals. If you aren't finding relevant results, you may need to go back step 2 to pick another exposure/treatment.
+    - [American Journal of Epidemiology](https://academic.oup.com/aje)
+    - [International Journal of Epidemiology](https://academic.oup.com/ije)
+    - [Journal of the American Medical Association](https://jamanetwork.com/)
+    - [New England Journal of Medicine](https://www.nejm.org/)
+4. Read through the Methods section of the article to get a sense for how they investigated the exposure/treatment relationship.
+5. [DAGitty](https://www.dagitty.net/) is an online tool for drawing causal diagrams. Navigate to the [DAGitty graphical interface](https://www.dagitty.net/dags.html) to begin sketching a causal diagram that depicts relationships between
+    - You can add variables by clicking on the gray canvas and entering a variable name. Once you have a circle selected, you can indicate it as an exposure or outcome variable by clicking the checkboxes in the top left.
+    - Add your exposure and outcome variables. They will be colored green and blue, respectively.
+    - Add an arrow between the exposure and the outcome by first clicking the exposure circle and then the outcome circle.
+    - Brainstorm with your team to come up with as many direct causes of the outcome as possible. Add these variables to your diagram and add arrows from these variables to the outcome.
+    - Discuss with your team: do you think these variables are connected with the exposure/treatment? Add arrows (and possibly more variables) to represent these connections.
+    - Look in the top right for the text "Minimal sufficient adjustment sets for estimating the total effect of EXPOSURE on OUTCOME". The sets of variables listed for each bullet point are sufficient ones to adjust for to estimate the causal relationship between the exposure/treatment and outcome. How do these sets of variables compare to what your research articles adjusted for?
+
+
