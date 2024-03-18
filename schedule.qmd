@@ -204,12 +204,12 @@ Videos that I will ask you to watch before class can be found in [this YouTube p
     <td class="topleft">10</td>
     
     <td class="topleft">
-      <b>3/19: Randomized controlled trials (part 1)</b><br>
+      <b>3/19: Randomized controlled trials</b><br>
       Pre-class video: <a href="https://youtu.be/xqUTipvGwWo?si=9uSdPBWtizPhjKk-">Randomized controlled trials</a> (<a href="https://drive.google.com/file/d/1eg8bor5YD1Rmo1c21qlEwootufdzVQA7/view?usp=sharing">slides</a>)
     </td>
     
     <td class="topleft">
-      <b>3/21: Randomized controlled trials (part 2)</b><br>
+      <b>3/21: Mini-Project 2</b><br>
       We will wrap up our Study Designs and Causal Inference unit with <b>Mini-Project 2</b> (to be worked on in groups during class and turned in at the end of class).
     </td>
     
@@ -223,15 +223,16 @@ Videos that I will ask you to watch before class can be found in [this YouTube p
     <td class="topleft">11</td>
     
     <td class="topleft">
-      <b>3/26: Sampling error and confidence intervals (part 1)</b>
+      <b>3/26: Logistic regression</b><br>
+      No pre-class video or reading. Content will be covered in class.
     </td>
     
     <td class="topleft">
-      <b>3/28: Sampling error and confidence intervals (part 2)</b>
+      <b>3/28: Statistical inference</b><br>
+      No pre-class video or reading. Content will be covered in class.
     </td>
     
     <td class="topleft">
-      Homework 4 due Monday 4/1 at midnight.
     </td>
   </tr>
   <!----------------------------------------------------------->
@@ -241,15 +242,17 @@ Videos that I will ask you to watch before class can be found in [this YouTube p
     <td class="topleft">12</td>
     
     <td class="topleft">
-      <b>4/2: Hypothesis testing (part 1)</b>
+      <b>4/2: Biases and measurement error</b><br>
+      No pre-class video or reading. Content will be covered in class.
     </td>
     
     <td class="topleft">
-      <b>4/4: Hypothesis testing (part 2)</b>
+      <b>4/4: Mini-Project 3</b>
+      We will wrap up our Statistical Thinking unit with <b>Mini-Project 3</b> (to be worked on in groups during class and turned in at the end of class).
     </td>
     
     <td class="topleft">
-      Homework 5 due Monday 4/8 at midnight.
+      Homework 4 due Monday 4/8 at midnight.
     </td>
   </tr>
   <!----------------------------------------------------------->
@@ -259,15 +262,17 @@ Videos that I will ask you to watch before class can be found in [this YouTube p
     <td class="topleft">13</td>
     
     <td class="topleft">
-      <b>4/9: Biases and measurement error (part 1)</b>
+      <b>4/9: Disease screening (part 1)</b><br>
+      Pre-class video: <a href="https://youtu.be/fX3JD3QwKA4?si=u4jvaaxwZ86AwQAd">Disease screening</a> (<a href="https://drive.google.com/file/d/1VmUQDyb-4KU3O8zrPU_hdmziZ7Ux5cH1/view?usp=sharing">slides</a>)
     </td>
     
     <td class="topleft">
-      <b>4/11: Biases and measurement error (part 2)</b><br>
-      We will wrap up our Statistical Thinking unit with <b>Mini-Project 3</b> (to be worked on in groups during class and turned in at the end of class).
+      <b>4/11: Disease screening (part 2)</b>
     </td>
     
     <td class="topleft">
+      Homework 5 due Monday 4/15 at midnight.<br>
+      Schedule Content Conversation 2 (20 minutes) for the week of 4/22-4/26 via <a href="https://calendly.com/lmyint">Calendly</a>.
     </td>
   </tr>
   <!----------------------------------------------------------->
@@ -277,17 +282,15 @@ Videos that I will ask you to watch before class can be found in [this YouTube p
     <td class="topleft">14</td>
     
     <td class="topleft">
-      <b>4/16: Disease screening (part 1)</b><br>
-      Pre-class video: <a href="https://youtu.be/fX3JD3QwKA4?si=u4jvaaxwZ86AwQAd">Disease screening</a> (<a href="https://drive.google.com/file/d/1VmUQDyb-4KU3O8zrPU_hdmziZ7Ux5cH1/view?usp=sharing">slides</a>)
+      <b>4/16: Project work time</b>
     </td>
     
     <td class="topleft">
-      <b>4/18: Disease screening (part 2)</b>
+      <b>4/18: Project work time</b>
     </td>
     
     <td class="topleft">
-      Homework 6 due Monday 4/22 at midnight.<br>
-      Schedule Content Conversation 2 (20 minutes) for next week (4/22-4/26).
+      Schedule Content Conversation 2 (20 minutes) for next week (4/22-4/26) via <a href="https://calendly.com/lmyint">Calendly</a>.
     </td>
   </tr>
   <!----------------------------------------------------------->
@@ -297,11 +300,11 @@ Videos that I will ask you to watch before class can be found in [this YouTube p
     <td class="topleft">15</td>
     
     <td class="topleft">
-      <b>4/23</b>
+      <b>4/23: Project work time</b>
     </td>
     
     <td class="topleft">
-      <b>4/25</b>
+      <b>4/25: Project work time</b>
     </td>
     
     <td class="topleft">
@@ -380,15 +383,10 @@ Videos that I will ask you to watch before class can be found in [this YouTube p
 - How does randomization work to control known and unknown confounding?
 - Why is blinding crucial in a randomized trial?
 
-<!--
-## Sampling error and confidence intervals
-
-## Hypothesis testing
-
-## Biases and measurement error
+<br>
 
 ## Disease screening
 
 - Describe how lead time bias can result in an overestimation of the benefits of screening.
 - Describe how length bias can result in an overestimation of the benefits of screening.
--->
+
