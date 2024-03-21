@@ -36,6 +36,7 @@ website:
         - 05-cohort.qmd
         - 06-case-control.qmd
         - 07-confounding-causation.qmd
+        - mini-project2.qmd
     
     - id: content_convos
       title: "Content Conversations"

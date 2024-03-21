@@ -245,6 +245,13 @@
     "text": "Activity\nPurpose: Come up with pictures/diagrams to explain concepts from our measurement unit. I hope that this helps solidify your understanding by representing the information in a different way. You are effectively developing a graphical reference sheet.\nTask: Work with your groups using whatever drawing tools you wish. Develop pictures and diagrams to graphically show the following. The goal is to use as little text as possible.\n\nDifference between prevalence, cumulative incidence, and incidence rate\nHow to determine the number of person-years of healthy follow up\nDirect standardization\n\nThe big picture idea behind why we use this method\nThe rationale between the direct standardization calculation\n\nThe rationale behind the life expectancy calculation\n\nPut all group members’ names at the top of your document. Submit this on Moodle by the end of class.\nRequirements for passing: Make a good faith effort at all tasks above. This activity will be graded for completion."
   },
   {
+    "objectID": "mini-project2.html",
+    "href": "mini-project2.html",
+    "title": "Mini-project 2",
+    "section": "",
+    "text": "Activity\nPurpose: Create a graphical reference sheet/concept map that compactly shows as many concepts as possible from our Study Designs & Causal Inference unit.\nTask: Work with your groups using whatever drawing tools you wish. Develop pictures and diagrams to graphically show the following. Try to use as little text as possible. (Icons can be helpful here!)\nSuggestion: Proceed through the concepts in order. Make sure you understand and can explain the concept to each other. Add on to your graphical display to show the concept and update previous parts as needed to most effectively convey the concepts.\n\nHow is the design of a cohort study different from a case-control study?\nWhy would one choose to do a cohort study vs. a case-control study vs. a randomized experiment?\n\nCompare the strengths and benefits in terms of ethical considerations, resources needed, ability to study rare diseases, ability to study rare exposures, ability to verify that exposure preceded the outcome, practical considerations for designing/running the study\n\nIn general, which of the following quantities can we estimate accurately in a cohort study? In a case-control study? (Note that we have only talked explicitly about some of these in either cohort or case-control studies. We’re trying to fully connect the dots with this prompt.)\n\nIncidence of disease in exposed, in unexposed\nPrevalence of disease\nPrevalence of exposure\nRelative risk (RR)\nOdds ratio (OR) (odds of disease in exposed / odds of disease in unexposed)\nOdds ratio (OR) (odds of exposure in disease / odds of exposure non-diseased)\n\nConcepts related to relative risk (RR), attributable risk (AR), and population attributable risk (PAR)\n\nHow can we interpret RR, AR, and PAR?\nWhat is the difference between AR and PAR?\nIf a relative risk is high, is the risk of disease in the exposed high? What about the attributable risk in the exposed (AR)? What about the population attributable risk?\n\nWhen is the odds ratio from a case-control study a good estimate of the relative risk that we would estimate from conducting a cohort study? (Why do we care about this?)\nHow can we use causal diagrams to understand what variables to stratify on (adjust for) in order to understand causal relationships between exposures and outcomes? Make sure to address confounders, mediators, and colliders in causal diagrams.\n\nHow do stratified association measures differ from overall association measures when confounding is present?\n\n\nPut all group members’ names at the top of your document. Submit this on Moodle by the end of class.\nRequirements for passing: Make a good faith effort at all tasks above. This activity will be graded for completion."
+  },
+  {
     "objectID": "project.html",
     "href": "project.html",
     "title": "Project",
@@ -278,6 +285,13 @@
     "title": "Project",
     "section": "Rubric",
     "text": "Rubric\nThe rubric below details quality expectations for the different aspects of the project described in the Format section above.\nDetails coming soon."
+  },
+  {
+    "objectID": "project.html#march-7",
+    "href": "project.html#march-7",
+    "title": "Project",
+    "section": "March 7",
+    "text": "March 7\nOur goal today is to think about an exposure or treatment that is relevant for the health or well-being topic for your project and use\n\nCheck in with your group and confirm with each other a health or well-being topic that you want to pursue.\nIdentify an exposure or treatment related to your topic where the causal relationship between the exposure/treatment and health outcome is of interest.\nEach team member should search for one research article relating in one of the following journals. If you aren’t finding relevant results, you may need to go back step 2 to pick another exposure/treatment.\n\nAmerican Journal of Epidemiology\nInternational Journal of Epidemiology\nJournal of the American Medical Association\nNew England Journal of Medicine\n\nRead through the Methods section of the article to get a sense for how they investigated the exposure/treatment relationship.\nDAGitty is an online tool for drawing causal diagrams. Navigate to the DAGitty graphical interface to begin sketching a causal diagram that depicts relationships between\n\nYou can add variables by clicking on the gray canvas and entering a variable name. Once you have a circle selected, you can indicate it as an exposure or outcome variable by clicking the checkboxes in the top left.\nAdd your exposure and outcome variables. They will be colored green and blue, respectively.\nAdd an arrow between the exposure and the outcome by first clicking the exposure circle and then the outcome circle.\nBrainstorm with your team to come up with as many direct causes of the outcome as possible. Add these variables to your diagram and add arrows from these variables to the outcome.\nDiscuss with your team: do you think these variables are connected with the exposure/treatment? Add arrows (and possibly more variables) to represent these connections.\nLook in the top right for the text “Minimal sufficient adjustment sets for estimating the total effect of EXPOSURE on OUTCOME”. The sets of variables listed for each bullet point are sufficient ones to adjust for to estimate the causal relationship between the exposure/treatment and outcome. How do these sets of variables compare to what your research articles adjusted for?"
   },
   {
     "objectID": "schedule.html",
@@ -334,6 +348,13 @@
     "title": "Schedule",
     "section": "Randomized controlled trials",
     "text": "Randomized controlled trials\n\nHow does randomization work to control known and unknown confounding?\nWhy is blinding crucial in a randomized trial?"
+  },
+  {
+    "objectID": "schedule.html#disease-screening",
+    "href": "schedule.html#disease-screening",
+    "title": "Schedule",
+    "section": "Disease screening",
+    "text": "Disease screening\n\nDescribe how lead time bias can result in an overestimation of the benefits of screening.\nDescribe how length bias can result in an overestimation of the benefits of screening."
   },
   {
     "objectID": "syllabus.html",
@@ -446,19 +467,5 @@
     "title": "Syllabus",
     "section": "Artificial intelligence (AI) use",
     "text": "Artificial intelligence (AI) use\nAI tools (e.g., ChatGPT, Google Bard) are going to be a part of our future, so while I will not be prohibiting AI usage, I want you to be aware of the limits of AI:\n\nAI does not always generate accurate output. If it gives you a number, fact, or code, assume it is wrong unless you either know the answer or can check in with another source. AI works best for topics you already understand to a sufficient extent.\nIf you provide minimum effort prompts, you will get low quality results. You will need to refine your prompts in order to get good outcomes. This will take work.\nBe thoughtful about when this tool is useful. Don’t use it if it isn’t appropriate for the case or circumstance.\nThe environmental impact of AI should not be ignored. The building and usage of AI tools consumes a lot of energy (see here and here). For this reason, we will be very thoughtful about when we use AI and will discuss other sustainability behaviors that we can incorporate into our lives to offset this usage.\nAI is a tool, but one that you need to acknowledge using. Any ideas, language, or code that is produced by AI must be cited, just like any other resource.\n\nHow to cite AI: Please include a paragraph at the end of any assignment that uses AI explaining what you used the AI for and what prompts you used to get the results. Failure to do so is in violation of the academic integrity policy at Macalester College.\n\n\nIf you have any questions about your use of AI tools, please contact me to discuss them."
-  },
-  {
-    "objectID": "project.html#march-7",
-    "href": "project.html#march-7",
-    "title": "Project",
-    "section": "March 7",
-    "text": "March 7\nOur goal today is to think about an exposure or treatment that is relevant for the health or well-being topic for your project and use\n\nCheck in with your group and confirm with each other a health or well-being topic that you want to pursue.\nIdentify an exposure or treatment related to your topic where the causal relationship between the exposure/treatment and health outcome is of interest.\nEach team member should search for one research article relating in one of the following journals. If you aren’t finding relevant results, you may need to go back step 2 to pick another exposure/treatment.\n\nAmerican Journal of Epidemiology\nInternational Journal of Epidemiology\nJournal of the American Medical Association\nNew England Journal of Medicine\n\nRead through the Methods section of the article to get a sense for how they investigated the exposure/treatment relationship.\nDAGitty is an online tool for drawing causal diagrams. Navigate to the DAGitty graphical interface to begin sketching a causal diagram that depicts relationships between\n\nYou can add variables by clicking on the gray canvas and entering a variable name. Once you have a circle selected, you can indicate it as an exposure or outcome variable by clicking the checkboxes in the top left.\nAdd your exposure and outcome variables. They will be colored green and blue, respectively.\nAdd an arrow between the exposure and the outcome by first clicking the exposure circle and then the outcome circle.\nBrainstorm with your team to come up with as many direct causes of the outcome as possible. Add these variables to your diagram and add arrows from these variables to the outcome.\nDiscuss with your team: do you think these variables are connected with the exposure/treatment? Add arrows (and possibly more variables) to represent these connections.\nLook in the top right for the text “Minimal sufficient adjustment sets for estimating the total effect of EXPOSURE on OUTCOME”. The sets of variables listed for each bullet point are sufficient ones to adjust for to estimate the causal relationship between the exposure/treatment and outcome. How do these sets of variables compare to what your research articles adjusted for?"
-  },
-  {
-    "objectID": "schedule.html#disease-screening",
-    "href": "schedule.html#disease-screening",
-    "title": "Schedule",
-    "section": "Disease screening",
-    "text": "Disease screening\n\nDescribe how lead time bias can result in an overestimation of the benefits of screening.\nDescribe how length bias can result in an overestimation of the benefits of screening."
   }
 ]
