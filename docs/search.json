@@ -252,6 +252,48 @@
     "text": "Activity\nPurpose: Create a graphical reference sheet/concept map that compactly shows as many concepts as possible from our Study Designs & Causal Inference unit.\nTask: Work with your groups using whatever drawing tools you wish. Develop pictures and diagrams to graphically show the following. Try to use as little text as possible. (Icons can be helpful here!)\nSuggestion: Proceed through the concepts in order. Make sure you understand and can explain the concept to each other. Add on to your graphical display to show the concept and update previous parts as needed to most effectively convey the concepts.\n\nHow is the design of a cohort study different from a case-control study?\nWhy would one choose to do a cohort study vs. a case-control study vs. a randomized experiment?\n\nCompare the strengths and benefits in terms of ethical considerations, resources needed, ability to study rare diseases, ability to study rare exposures, ability to verify that exposure preceded the outcome, practical considerations for designing/running the study\n\nIn general, which of the following quantities can we estimate accurately in a cohort study? In a case-control study? (Note that we have only talked explicitly about some of these in either cohort or case-control studies. We’re trying to fully connect the dots with this prompt.)\n\nIncidence of disease in exposed, in unexposed\nPrevalence of disease\nPrevalence of exposure\nRelative risk (RR)\nOdds ratio (OR) (odds of disease in exposed / odds of disease in unexposed)\nOdds ratio (OR) (odds of exposure in disease / odds of exposure non-diseased)\n\nConcepts related to relative risk (RR), attributable risk (AR), and population attributable risk (PAR)\n\nHow can we interpret RR, AR, and PAR?\nWhat is the difference between AR and PAR?\nIf a relative risk is high, is the risk of disease in the exposed high? What about the attributable risk in the exposed (AR)? What about the population attributable risk?\n\nWhen is the odds ratio from a case-control study a good estimate of the relative risk that we would estimate from conducting a cohort study? (Why do we care about this?)\nHow can we use causal diagrams to understand what variables to stratify on (adjust for) in order to understand causal relationships between exposures and outcomes? Make sure to address confounders, mediators, and colliders in causal diagrams.\n\nHow do stratified association measures differ from overall association measures when confounding is present?\n\n\nPut all group members’ names at the top of your document. Submit this on Moodle by the end of class.\nRequirements for passing: Make a good faith effort at all tasks above. This activity will be graded for completion."
   },
   {
+    "objectID": "pause_reflect.html",
+    "href": "pause_reflect.html",
+    "title": "Pause and reflect",
+    "section": "",
+    "text": "One of my greatest fears as a teacher is having zero impact on the way that you live your lives once we part ways.\nI want to spend today clarifying some of the most important things on your mind these days and attempt to draw connections between them and what we’ve done in class so far. I also want you to connect with someone new today.\nWe will do this using a framework called the 12 Favorite Problems (12FP)."
+  },
+  {
+    "objectID": "pause_reflect.html#favorite-problems-context",
+    "href": "pause_reflect.html#favorite-problems-context",
+    "title": "Pause and reflect",
+    "section": "12 Favorite Problems: context",
+    "text": "12 Favorite Problems: context\nRichard Feynman was a Nobel prize-winning physicist whose contributions fundamentally reshaped our understanding of the physical world.\nA major part of his success was a method for viewing the world: a mindset of viewing the world through the lens of several open-ended questions. Feynman called these his “favorite problems.” He said of these problems:\n\nYou have to keep a dozen of your favorite problems constantly present in your mind, although by and large they will lay in a dormant state. Every time you hear or read a new trick or a new result, test it against each of your twelve problems to see whether it helps. Every once in a while there will be a hit, and people will say, “How did [they] do it? [They] must be a genius!”\nQuote source: Forte Labs"
+  },
+  {
+    "objectID": "pause_reflect.html#the-12-favorite-problems-framework",
+    "href": "pause_reflect.html#the-12-favorite-problems-framework",
+    "title": "Pause and reflect",
+    "section": "The 12 Favorite Problems framework",
+    "text": "The 12 Favorite Problems framework\nA favorite problem is a meaningful, open-ended question that allows you to learn, explore, and act with intention on your biggest interests in life. Here are two of mine:\n\nHow can I be the kind of mother I can feel proud of without losing myself?\nHow can I have a fulfilling career without burning out?\n\nFormulating several of these favorite problems can lead to several benefits:\n\n\nDedicate your time and attention to ideas that truly spark your curiosity\nSee how a piece of information might be useful and why it’s worth keeping\nSee insightful patterns across multiple subjects that seem unrelated, but might share a common thread\nFocus the impact of your work on problems where you can make a real difference\nPrime your subconscious to notice helpful solutions to your biggest challenges in the world around you\nAttract like-minded people who have the same interests and goals as you\n\nSource: Forte Labs"
+  },
+  {
+    "objectID": "pause_reflect.html#brainstorming-our-12-favorite-problems-fps",
+    "href": "pause_reflect.html#brainstorming-our-12-favorite-problems-fps",
+    "title": "Pause and reflect",
+    "section": "Brainstorming our 12 favorite problems (FPs)",
+    "text": "Brainstorming our 12 favorite problems (FPs)\n\nOpen up a blank file in which to type.\nNavigate to this article by Tiago Forte, and scroll down to the first step “Get started with these prompts.”\nUsing these prompts, take about 15 minutes to brainstorm your own 12 favorite problems.\n\nTiago Forte provides examples of his 12 FPs in his post. Feel free to also look at my own for more examples. (I’m working on updating my 12 FPs today alongside you.)\n\n\nSave your 12FP file in a place you’ll be able to find easily."
+  },
+  {
+    "objectID": "pause_reflect.html#sharing-and-refining-our-12-fps",
+    "href": "pause_reflect.html#sharing-and-refining-our-12-fps",
+    "title": "Pause and reflect",
+    "section": "Sharing and refining our 12 FPs",
+    "text": "Sharing and refining our 12 FPs\nIn groups, each person will have ~2 minutes to share their top 2 FPs and get some feedback from the group. The group should give feedback to help make the FPs more specific, counterintuitive, and interdiscipinary:\n\nSpecific:\n\nOriginal: “How can I be a better leader?” is a little broad.\nPossible improvement: “How can I be a better leader as an introvert?”\n\nCounterintuitive:\n\nOriginal: “How can I improve the standard of living in the global south?”\nPossible improvement: “How can I improve the standard of living in the global south without further contributing to the climate change that threatens those regions the most?”\n\nInterdisciplinary:\n\nOriginal: How can I improve education?”\nPossible improvement: “How can I improve education by borrowing ideas from video games?”\n\n\n(Examples from Forte Labs)"
+  },
+  {
+    "objectID": "pause_reflect.html#drawing-connections-to-our-course",
+    "href": "pause_reflect.html#drawing-connections-to-our-course",
+    "title": "Pause and reflect",
+    "section": "Drawing connections to our course",
+    "text": "Drawing connections to our course\nLook through your 12FPs and let your mind wander: how could these questions actually be answered/addressed? What ideas from epidemiology could be relevant? How?\nTake turns sharing your ideas with each other."
+  },
+  {
     "objectID": "project.html",
     "href": "project.html",
     "title": "Project",

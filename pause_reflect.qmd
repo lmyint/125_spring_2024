@@ -1,0 +1,94 @@
+---
+title: "Pause and reflect"
+sidebar: false
+format: html
+html-math-method: mathml
+---
+
+One of my greatest fears as a teacher is having zero impact on the way that you live your lives once we part ways.
+
+I want to spend today clarifying some of the most important things on your mind these days and attempt to draw connections between them and what we've done in class so far. I also want you to connect with someone new today.
+
+We will do this using a framework called the **12 Favorite Problems (12FP)**.
+
+
+<br><br>
+
+
+## 12 Favorite Problems: context
+
+Richard Feynman was a Nobel prize-winning physicist whose contributions fundamentally reshaped our understanding of the physical world.
+
+A major part of his success was a *method* for viewing the world: a mindset of viewing the world through the lens of several open-ended questions. Feynman called these his "favorite problems." He said of these problems:
+
+> You have to keep a dozen of your favorite problems constantly present in your mind, although by and large they will lay in a dormant state. Every time you hear or read a new trick or a new result, test it against each of your twelve problems to see whether it helps. Every once in a while there will be a hit, and people will say, "How did [they] do it? [They] must be a genius!"
+> 
+> Quote source: [Forte Labs](https://fortelabs.com/blog/12-favorite-problems-how-to-spark-genius-with-the-power-of-open-questions/)
+
+
+<br><br>
+
+
+## The 12 Favorite Problems framework
+
+A favorite problem is a meaningful, open-ended question that allows you to learn, explore, and act with intention on your biggest interests in life. Here are two of mine:
+
+- How can I be the kind of mother I can feel proud of without losing myself?
+- How can I have a fulfilling career without burning out?
+
+Formulating several of these favorite problems can lead to several benefits:
+
+> 
+> - Dedicate your time and attention to ideas that truly spark your curiosity
+> - See how a piece of information might be useful and why it’s worth keeping
+> - See insightful patterns across multiple subjects that seem unrelated, but might share a common thread
+> - Focus the impact of your work on problems where you can make a real difference
+> - Prime your subconscious to notice helpful solutions to your biggest challenges in the world around you
+> - Attract like-minded people who have the same interests and goals as you
+> 
+> Source: [Forte Labs](https://fortelabs.com/blog/12-favorite-problems-how-to-spark-genius-with-the-power-of-open-questions/)
+
+
+<br><br>
+
+
+## Brainstorming our 12 favorite problems (FPs)
+
+- Open up a blank file in which to type.
+- Navigate to [this article](https://fortelabs.com/blog/how-to-generate-your-own-favorite-problems-a-4-step-guide/) by Tiago Forte, and scroll down to the first step "Get started with these prompts."
+- Using these prompts, take about 15 minutes to brainstorm your own 12 favorite problems.
+    - Tiago Forte provides examples of his 12 FPs in his post. Feel free to also look at [my own](https://www.lesliemyint.org/12-favorite-problems) for more examples. (I'm working on updating my 12 FPs today alongside you.)
+    
+**Save your 12FP file in a place you'll be able to find easily.**
+
+
+<br><br>
+
+
+## Sharing and refining our 12 FPs
+
+In groups, each person will have ~2 minutes to share their top 2 FPs and get some feedback from the group. The group should give feedback to help make the FPs more specific, counterintuitive, and interdiscipinary:
+
+- **Specific:**
+    - Original: "How can I be a better leader?" is a little broad.
+    - Possible improvement: "How can I be a better leader *as an introvert*?"
+- **Counterintuitive:**
+    - Original: "How can I improve the standard of living in the global south?"
+    - Possible improvement: "How can I improve the standard of living in the global south *without further contributing to the climate change that threatens those regions the most*?"
+- **Interdisciplinary:**
+    - Original: How can I improve education?"
+    - Possible improvement: "How can I improve education *by borrowing ideas from video games*?"
+
+(Examples from [Forte Labs](https://fortelabs.com/blog/how-to-generate-your-own-favorite-problems-a-4-step-guide/))
+
+
+<br><br>
+
+
+## Drawing connections to our course
+
+Look through your 12FPs and let your mind wander: how could these questions actually be answered/addressed? What ideas from epidemiology could be relevant? How?
+
+Take turns sharing your ideas with each other.
+
+
