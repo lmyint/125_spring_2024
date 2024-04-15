@@ -48,7 +48,7 @@ You will create a blog post/web page that allows viewers to explore your health/
         - Summarize the main findings
         - Evaluate the ways in which the researchers interpret their statistical findings in the Results and Discussion sections of the article. Do the researchers interpret results accurately and draw reasonable conclusions?
         - Do the researchers adjust for an appropriate set of confounders in their analysis? Apply ideas from our **Causal Inference** topic: confounding, causation, causal diagrams
-        - Make connections with ideas from our **Statistical Thinking** topic: sampling error and confidence intervals, type 1 and 2 errors, power, multiple testing, biases, and measurement error
+        - Make connections with ideas from our **Statistical Thinking** topic: logistic regression, sampling error and confidence intervals, type 1 and 2 errors, power, multiple testing, and biases
 
 ## Rubric
 
@@ -58,40 +58,27 @@ The rubric below details quality expectations for the different aspects of the p
 
 Rubric category 1: Cited references
 
-- **High pass:** 
-- **Pass:** 
-- **Needs improvement:** 
+- **High pass:** Relevant and credible references are cited consistently throughout the blog post.
+- **Pass:** Some sections of the blog post are missing relevant and credible references.
+- **Needs Improvement:** Several sections of the blog post are missing relevant and credible references.
 
 Rubric category 2: Writing quality
 
-- **High pass:** 
-- **Pass:** 
-- **Needs improvement:** 
+- **High pass:** Writing is clear, concise, and well-organized, with good flow from section to section.
+- **Pass:** Writing is generally clear, concise, and well-organized but may sometimes warrant a different ordering to sentences or a reduction in repetition for better clarity.
+- **Needs improvement:** Several sections of the writing are hard to follow.
 
 Rubric category 3: Quality of content and connections to epidemiological concepts (Measurement topic)
-
-- **High pass:** 
-- **Pass:** 
-- **Needs improvement:** 
-
 Rubric category 4: Quality of content and connections to epidemiological concepts (Study Designs topic)
-
-- **High pass:** 
-- **Pass:** 
-- **Needs improvement:** 
-
 Rubric category 5: Quality of content and connections to epidemiological concepts (Causal Inference topic)
-
-- **High pass:** 
-- **Pass:** 
-- **Needs improvement:** 
-
 Rubric category 6: Quality of content and connections to epidemiological concepts (Statistical Thinking topic)
 
-- **High pass:** 
-- **Pass:** 
-- **Needs improvement:** 
+- **High pass:** Makes relevant connections to concepts from this unit (see Format section above for more details) and explains these connections clearly and accurately.
+- **Pass:** Explanations of concepts from this unit are generally clear and accurate but have a few minor errors.
+- **Needs improvement:** Several key relevant concepts are missing, and there are major errors in understanding of the included relevant concepts.
 
+
+<br><br>
 
 
 # Milestones
@@ -135,4 +122,16 @@ Due Monday, April 8 on [Moodle](https://moodle.macalester.edu/mod/assign/view.ph
 
 **Feedback:** This Milestone will be graded for completion. My aim is to give you feedback on Rubric categories 1 - 5.
 
+## Final Submission
 
+Task:
+
+- Incorporate the instructor's feedback from Milestone 1.
+- Add to your post to make connections with ideas from our **Statistical Thinking** topic. **Each team member** should address the following questions for their research article:
+    - Summarize the findings of the article by interpreting the association measures presented (which could be odds ratios, relative risks) along with their 95% confidence intervals. If there are a lot of results reported, focus on interpreting 
+    - Evaluate whether multiple testing might be an issue in the study.
+    - Explain 1-2 biases that might be at play when looking at the study's results.
+
+Logistics:
+
+- Submit your work [on Moodle](https://moodle.macalester.edu/mod/assign/view.php?id=93874) by midnight on Monday, April 29. Only one team member per group needs to submit.

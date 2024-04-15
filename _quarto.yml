@@ -43,6 +43,7 @@ website:
       title: "Content Conversations"
       contents:
         - content_conversation1.qmd
+        - content_conversation2.qmd
   
   page-footer:
     left: |

@@ -1,0 +1,30 @@
+---
+title: "Content Conversation 2"
+sidebar: false
+---
+
+# Context
+
+The purpose of this final Content Conversation is to reflect on what you think are the most important ideas from the course. Unlike our first Content Conversation, you will not be explaining a computation or interpretation step-by-step. Rather, we will have a conversation about the ideas that you thought were the most important across each unit and why.
+
+
+<br><br>
+
+
+# Logistics
+
+Sign up for a 15 minute discussion slot with the instructor via [Calendly](https://calendly.com/lmyint) during 4/22-4/30. 
+
+
+<br><br>
+
+
+# Prompts
+
+For each of the following units in our course, what idea do you think is most important for you and/or the general public to know, and why?
+
+- **Measurement unit:** concepts related to collecting prevalence and incidence data, mortality data, direct standardization, life expectancy
+- **Study Designs unit:** concepts related to cohort and case-control studies (difference between the two studies, association measures, measures of impact, rare disease assumption)
+- **Causal Inference unit:** concepts related to causal diagrams (confounders, mediators, colliders, smoking-birthweight paradox example)
+- **Statistical Thinking unit:** concepts related to logistic regression, sampling error and confidence intervals, type 1 and 2 errors, power, multiple testing, and biases
+- **Disease screening unit:** concepts related to sensitivity, specificity, positive and negative predictive value, the impact of prevalence on PPV and NPV
