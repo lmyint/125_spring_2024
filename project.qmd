@@ -54,8 +54,6 @@ You will create a blog post/web page that allows viewers to explore your health/
 
 The rubric below details quality expectations for the different aspects of the project described in the Format section above.
 
-*Full details coming soon.*
-
 Rubric category 1: Cited references
 
 - **High pass:** Relevant and credible references are cited consistently throughout the blog post.
