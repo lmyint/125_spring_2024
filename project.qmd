@@ -126,7 +126,7 @@ Task:
 
 - Incorporate the instructor's feedback from Milestone 1.
 - Add to your post to make connections with ideas from our **Statistical Thinking** topic. **Each team member** should address the following questions for their research article:
-    - Summarize the findings of the article by interpreting the association measures presented (which could be odds ratios, relative risks) along with their 95% confidence intervals. If there are a lot of results reported, focus on interpreting 
+    - Summarize the findings of the article by interpreting the association measures presented (which could be odds ratios, relative risks) along with their 95% confidence intervals. If there are a lot of results reported, focus on interpreting a few key results.
     - Evaluate whether multiple testing might be an issue in the study.
     - Explain 1-2 biases that might be at play when looking at the study's results.
 
